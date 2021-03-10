@@ -6,7 +6,9 @@ repo: tymlymonitor # Your GitHub repository name
 sites:
   - name: Adarsh Vihar
     url: https://cloud.tymly.in/status/1041
-
+  - name: Amrutha Value
+    url: https://cloud.tymly.in/status/1010
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
