@@ -6,8 +6,10 @@ repo: tymlymonitor # Your GitHub repository name
 sites:
   - name: Adarsh Vihar
     url: https://cloud.tymly.in/status/1041
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Amrutha Value
     url: https://cloud.tymly.in/status/1010
+    __dangerous__body_degraded: '{"status": "down"}'
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
