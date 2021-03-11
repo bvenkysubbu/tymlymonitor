@@ -4,11 +4,308 @@ repo: tymlymonitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Adarsh Vihar
-    url: https://cloud.tymly.in/status/1041
+  - name: Trifecta Esplanade
+    url: https://cloud.tymly.in/status/1003
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Casa Gopalan Block B Lift
+    url: https://cloud.tymly.in/status/1005
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Casa Gopalan Block A Lift
+    url: https://cloud.tymly.in/status/1006
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Gayathri Goodlife
+    url: https://cloud.tymly.in/status/1009
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Amrutha Value
     url: https://cloud.tymly.in/status/1010
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sterling Shalom C Block
+    url: https://cloud.tymly.in/status/1011
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sterling Shalom D Block
+    url: https://cloud.tymly.in/status/1012
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sterling Shalom F Block
+    url: https://cloud.tymly.in/status/1013
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Raghavendras Bloomfields
+    url: https://cloud.tymly.in/status/1014
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Amrutha Sarovar
+    url: https://cloud.tymly.in/status/1016
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Trifecta Esplanade Security
+    url: https://cloud.tymly.in/status/1017
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SBB Touchstone Reborn
+    url: https://cloud.tymly.in/status/1018
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: United Elysium
+    url: https://cloud.tymly.in/status/1019
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Greenville Whitefield
+    url: https://cloud.tymly.in/status/1020
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sunshine Silicon Citi
+    url: https://cloud.tymly.in/status/1021
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Pruksa Silvana
+    url: https://cloud.tymly.in/status/1022
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Forest Hills and Flush Meadows
+    url: https://cloud.tymly.in/status/1023
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sterling Shalom A Block
+    url: https://cloud.tymly.in/status/1024
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: DSR Sunrise Towers
+    url: https://cloud.tymly.in/status/1025
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: United Elysium 2
+    url: https://cloud.tymly.in/status/1026
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: DSR Sunrise Towers 2
+    url: https://cloud.tymly.in/status/1027
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Adithya Pristine KMC
+    url: https://cloud.tymly.in/status/1028
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sraddha Whitecliff
+    url: https://cloud.tymly.in/status/1033
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sraddha Whitecliff 2
+    url: https://cloud.tymly.in/status/1034
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sraddha Whitecliff 3
+    url: https://cloud.tymly.in/status/1035
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sowparnika Ananda
+    url: https://cloud.tymly.in/status/1036
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Wilson Vintage 1
+    url: https://cloud.tymly.in/status/1037
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Wilson Vintage 2
+    url: https://cloud.tymly.in/status/1038
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SNR Silver Ripples
+    url: https://cloud.tymly.in/status/1039
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SNR Silver Ripples 2
+    url: https://cloud.tymly.in/status/1040
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Adarsh Vihar
+    url: https://cloud.tymly.in/status/1041
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Pruksa Silvana 2
+    url: https://cloud.tymly.in/status/1044
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Urban Greens
+    url: https://cloud.tymly.in/status/1046
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Flushing Meadows Block B
+    url: https://cloud.tymly.in/status/1047
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Ruchira Lilium v2
+    url: https://cloud.tymly.in/status/1048
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Flushing Meadows Block D
+    url: https://cloud.tymly.in/status/1049
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Forest Hills Block C
+    url: https://cloud.tymly.in/status/1050
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Forest Hills Block B
+    url: https://cloud.tymly.in/status/1051
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Forest Hills Block A
+    url: https://cloud.tymly.in/status/1052
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Flushing Meadows Block A
+    url: https://cloud.tymly.in/status/1053
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Nitesh Flushing Meadows Block C
+    url: https://cloud.tymly.in/status/1054
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sandeep Vihar Club House
+    url: https://cloud.tymly.in/status/1055
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prakruthi Villas Sarjapura
+    url: https://cloud.tymly.in/status/1058
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: PSR Aster 1
+    url: https://cloud.tymly.in/status/1059
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: PSR Aster 2 G Block
+    url: https://cloud.tymly.in/status/1060
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sowparnika Ananda D Block
+    url: https://cloud.tymly.in/status/1061
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Balaji Sunflower
+    url: https://cloud.tymly.in/status/1062
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: 20148
+    url: https://cloud.tymly.in/status/1063
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: PSR Aster 3 E Block
+    url: https://cloud.tymly.in/status/1064
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: PSR Aster 4 C Block
+    url: https://cloud.tymly.in/status/1065
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens
+    url: https://cloud.tymly.in/status/1066
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Hinduja Park 1
+    url: https://cloud.tymly.in/status/1067
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sterling Villa Grande
+    url: https://cloud.tymly.in/status/1068
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sterling Shalom B Block
+    url: https://cloud.tymly.in/status/1069
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sterling Shalom E Block
+    url: https://cloud.tymly.in/status/1070
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Community Hall
+    url: https://cloud.tymly.in/status/1073
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Temple Side
+    url: https://cloud.tymly.in/status/1074
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Mahaveer Varna A1
+    url: https://cloud.tymly.in/status/1083
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Mahaveer Varna A4
+    url: https://cloud.tymly.in/status/1084
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Mahaveer Varna B1
+    url: https://cloud.tymly.in/status/1085
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Mahaveer Varna B3
+    url: https://cloud.tymly.in/status/1086
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sumadhura Silver Ripples Club House
+    url: https://cloud.tymly.in/status/1090
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Decathlon Warehouse Hope Farm I
+    url: https://cloud.tymly.in/status/1091
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SMR Vinay Cascade B Block
+    url: https://cloud.tymly.in/status/1093
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SMR Vinay Cascade A Block
+    url: https://cloud.tymly.in/status/1094
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Whitestone Landmark
+    url: https://cloud.tymly.in/status/1095
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: White Breeze 1
+    url: https://cloud.tymly.in/status/1096
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: White Breeze 2
+    url: https://cloud.tymly.in/status/1097
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sowparnika Swastika 2
+    url: https://cloud.tymly.in/status/1099
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 13
+    url: https://cloud.tymly.in/status/1100
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sowparnika Swastika 1
+    url: https://cloud.tymly.in/status/1101
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 1
+    url: https://cloud.tymly.in/status/1102
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 2 and 3
+    url: https://cloud.tymly.in/status/1103
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 4
+    url: https://cloud.tymly.in/status/1104
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 5 and 6
+    url: https://cloud.tymly.in/status/1105
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 7 and 8
+    url: https://cloud.tymly.in/status/1106
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 12
+    url: https://cloud.tymly.in/status/1107
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 14
+    url: https://cloud.tymly.in/status/1108
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 15 and 16
+    url: https://cloud.tymly.in/status/1109
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 17
+    url: https://cloud.tymly.in/status/1110
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 18
+    url: https://cloud.tymly.in/status/1111
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 19
+    url: https://cloud.tymly.in/status/1112
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 20
+    url: https://cloud.tymly.in/status/1113
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 21
+    url: https://cloud.tymly.in/status/1114
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 22
+    url: https://cloud.tymly.in/status/1115
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 9
+    url: https://cloud.tymly.in/status/1116
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 10
+    url: https://cloud.tymly.in/status/1117
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 11
+    url: https://cloud.tymly.in/status/1118
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 23
+    url: https://cloud.tymly.in/status/1119
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat Tower 24
+    url: https://cloud.tymly.in/status/1120
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat 20
+    url: https://cloud.tymly.in/status/1121
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat 21
+    url: https://cloud.tymly.in/status/1122
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat 22
+    url: https://cloud.tymly.in/status/1123
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat 23
+    url: https://cloud.tymly.in/status/1124
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat 24
+    url: https://cloud.tymly.in/status/1125
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Prestige Lakeside Habitat 25
+    url: https://cloud.tymly.in/status/1126
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SBC Nest A Block
+    url: https://cloud.tymly.in/status/1127
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SBC Nest B Block
+    url: https://cloud.tymly.in/status/1128
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: VBHC Serene Town A Block
+    url: https://cloud.tymly.in/status/1129
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: VBHC Serene Town B Block
+    url: https://cloud.tymly.in/status/1130
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: VBHC Serene Town D Block
+    url: https://cloud.tymly.in/status/1131
     __dangerous__body_degraded: '{"status": "down"}'
     
 status-website:
