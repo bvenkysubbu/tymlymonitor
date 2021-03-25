@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 3137,
     "timeDay": 2592,
-    "timeWeek": 3041,
+    "timeWeek": 3125,
     "timeMonth": 3137,
     "timeYear": 3137,
     "dailyMinutesDown": {}
@@ -354,7 +354,7 @@
     "uptimeYear": "100.00%",
     "time": 1956,
     "timeDay": 1579,
-    "timeWeek": 1842,
+    "timeWeek": 1829,
     "timeMonth": 1956,
     "timeYear": 1956,
     "dailyMinutesDown": {}
@@ -508,17 +508,17 @@
     "url": "https://cloud.tymly.in/status/1039",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8017,
-    "timeDay": 7420,
-    "timeWeek": 7322,
-    "timeMonth": 8017,
-    "timeYear": 8017,
+    "time": 7993,
+    "timeDay": 7162,
+    "timeWeek": 7309,
+    "timeMonth": 7993,
+    "timeYear": 7993,
     "dailyMinutesDown": {}
   },
   {
@@ -660,7 +660,7 @@
     "uptimeYear": "100.00%",
     "time": 3650,
     "timeDay": 1390,
-    "timeWeek": 2935,
+    "timeWeek": 3115,
     "timeMonth": 3650,
     "timeYear": 3650,
     "dailyMinutesDown": {}
@@ -785,8 +785,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8392,
-    "timeDay": 9356,
-    "timeWeek": 7756,
+    "timeDay": 8634,
+    "timeWeek": 7769,
     "timeMonth": 8392,
     "timeYear": 8392,
     "dailyMinutesDown": {}
@@ -1002,7 +1002,7 @@
     "uptimeYear": "100.00%",
     "time": 2306,
     "timeDay": 2623,
-    "timeWeek": 2644,
+    "timeWeek": 2663,
     "timeMonth": 2306,
     "timeYear": 2306,
     "dailyMinutesDown": {}
@@ -1020,7 +1020,7 @@
     "uptimeYear": "100.00%",
     "time": 2751,
     "timeDay": 2401,
-    "timeWeek": 2474,
+    "timeWeek": 2461,
     "timeMonth": 2751,
     "timeYear": 2751,
     "dailyMinutesDown": {}
@@ -1758,7 +1758,7 @@
     "uptimeYear": "100.00%",
     "time": 9720,
     "timeDay": 3163,
-    "timeWeek": 9108,
+    "timeWeek": 8869,
     "timeMonth": 9720,
     "timeYear": 9720,
     "dailyMinutesDown": {}
