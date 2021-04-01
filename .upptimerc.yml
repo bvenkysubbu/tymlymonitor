@@ -322,10 +322,10 @@ sites:
   - name: Madhuban Brindavan B Block
     url: https://cloud.tymly.in/status/1136
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Dasa Concerto Entrance
+  - name: Dasta Concerto Entrance
     url: https://cloud.tymly.in/status/1137
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Dasa Concerto Basement
+  - name: Dasta Concerto Basement
     url: https://cloud.tymly.in/status/1138
     __dangerous__body_degraded: '{"status": "down"}'
 status-website:
