@@ -307,7 +307,27 @@ sites:
   - name: VBHC Serene Town D Block
     url: https://cloud.tymly.in/status/1131
     __dangerous__body_degraded: '{"status": "down"}'
-    
+  - name: VBHC Serene Town C Block
+    url: https://cloud.tymly.in/status/1132
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Desai Grandeur 1
+    url: https://cloud.tymly.in/status/1133
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Desai Grandeur 2
+    url: https://cloud.tymly.in/status/1134
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Madhuban Brindavan A Block
+    url: https://cloud.tymly.in/status/1135
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Madhuban Brindavan B Block
+    url: https://cloud.tymly.in/status/1136
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Dasa Concerto Entrance
+    url: https://cloud.tymly.in/status/1137
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Dasa Concerto Basement
+    url: https://cloud.tymly.in/status/1138
+    __dangerous__body_degraded: '{"status": "down"}'
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
