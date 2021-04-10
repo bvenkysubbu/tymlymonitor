@@ -462,7 +462,7 @@
     "uptimeYear": "100.00%",
     "time": 5301,
     "timeDay": 3109,
-    "timeWeek": 5756,
+    "timeWeek": 6119,
     "timeMonth": 5301,
     "timeYear": 5301,
     "dailyMinutesDown": {}
@@ -480,7 +480,7 @@
     "uptimeYear": "100.00%",
     "time": 3276,
     "timeDay": 1917,
-    "timeWeek": 3677,
+    "timeWeek": 3859,
     "timeMonth": 3276,
     "timeYear": 3276,
     "dailyMinutesDown": {}
@@ -498,7 +498,7 @@
     "uptimeYear": "100.00%",
     "time": 2420,
     "timeDay": 226,
-    "timeWeek": 3270,
+    "timeWeek": 3413,
     "timeMonth": 2420,
     "timeYear": 2420,
     "dailyMinutesDown": {}
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7691,
     "timeDay": 7159,
-    "timeWeek": 7855,
+    "timeWeek": 7925,
     "timeMonth": 7691,
     "timeYear": 7691,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 6482,
     "timeDay": 2071,
-    "timeWeek": 5394,
+    "timeWeek": 5549,
     "timeMonth": 6482,
     "timeYear": 6482,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 2282,
     "timeDay": 1570,
-    "timeWeek": 2278,
+    "timeWeek": 2289,
     "timeMonth": 2126,
     "timeYear": 2282,
     "dailyMinutesDown": {}
@@ -606,7 +606,7 @@
     "uptimeYear": "100.00%",
     "time": 3056,
     "timeDay": 1713,
-    "timeWeek": 1951,
+    "timeWeek": 1957,
     "timeMonth": 3056,
     "timeYear": 3056,
     "dailyMinutesDown": {}
@@ -642,7 +642,7 @@
     "uptimeYear": "100.00%",
     "time": 3230,
     "timeDay": 3180,
-    "timeWeek": 3800,
+    "timeWeek": 4006,
     "timeMonth": 3230,
     "timeYear": 3230,
     "dailyMinutesDown": {}
@@ -1254,7 +1254,7 @@
     "uptimeYear": "100.00%",
     "time": 3873,
     "timeDay": 2633,
-    "timeWeek": 3419,
+    "timeWeek": 3539,
     "timeMonth": 3873,
     "timeYear": 3873,
     "dailyMinutesDown": {}
@@ -1272,7 +1272,7 @@
     "uptimeYear": "100.00%",
     "time": 8867,
     "timeDay": 3046,
-    "timeWeek": 7135,
+    "timeWeek": 7244,
     "timeMonth": 8867,
     "timeYear": 8867,
     "dailyMinutesDown": {}
@@ -1750,17 +1750,17 @@
     "url": "https://cloud.tymly.in/status/1128",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sbc-nest-b-block",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 10232,
-    "timeDay": 9975,
-    "timeWeek": 10128,
-    "timeMonth": 10232,
-    "timeYear": 10232,
+    "time": 10189,
+    "timeDay": 9108,
+    "timeWeek": 9938,
+    "timeMonth": 10189,
+    "timeYear": 10189,
     "dailyMinutesDown": {}
   },
   {
@@ -1884,7 +1884,7 @@
     "uptimeYear": "100.00%",
     "time": 3109,
     "timeDay": 1458,
-    "timeWeek": 3208,
+    "timeWeek": 3344,
     "timeMonth": 3109,
     "timeYear": 3109,
     "dailyMinutesDown": {}
