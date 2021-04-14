@@ -390,7 +390,7 @@
     "uptimeYear": "100.00%",
     "time": 6706,
     "timeDay": 8819,
-    "timeWeek": 5769,
+    "timeWeek": 5838,
     "timeMonth": 6517,
     "timeYear": 6706,
     "dailyMinutesDown": {}
@@ -508,17 +508,17 @@
     "url": "https://cloud.tymly.in/status/1039",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7690,
-    "timeDay": 1842,
-    "timeWeek": 8069,
-    "timeMonth": 7485,
-    "timeYear": 7690,
+    "time": 7672,
+    "timeDay": 1573,
+    "timeWeek": 7973,
+    "timeMonth": 7465,
+    "timeYear": 7672,
     "dailyMinutesDown": {}
   },
   {
@@ -786,7 +786,7 @@
     "uptimeYear": "100.00%",
     "time": 9087,
     "timeDay": 4870,
-    "timeWeek": 9146,
+    "timeWeek": 9019,
     "timeMonth": 9325,
     "timeYear": 9087,
     "dailyMinutesDown": {}
@@ -840,7 +840,7 @@
     "uptimeYear": "100.00%",
     "time": 3495,
     "timeDay": 1919,
-    "timeWeek": 5650,
+    "timeWeek": 4488,
     "timeMonth": 3644,
     "timeYear": 3495,
     "dailyMinutesDown": {}
@@ -1236,7 +1236,7 @@
     "uptimeYear": "100.00%",
     "time": 6954,
     "timeDay": 2982,
-    "timeWeek": 7397,
+    "timeWeek": 7499,
     "timeMonth": 6975,
     "timeYear": 6954,
     "dailyMinutesDown": {}
@@ -1272,7 +1272,7 @@
     "uptimeYear": "100.00%",
     "time": 8787,
     "timeDay": 10148,
-    "timeWeek": 7186,
+    "timeWeek": 7310,
     "timeMonth": 8122,
     "timeYear": 8787,
     "dailyMinutesDown": {}
