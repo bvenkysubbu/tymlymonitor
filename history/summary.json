@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7766,
     "timeDay": 6939,
-    "timeWeek": 8088,
+    "timeWeek": 7948,
     "timeMonth": 7498,
     "timeYear": 7766,
     "dailyMinutesDown": {}
@@ -1930,17 +1930,17 @@
     "url": "https://cloud.tymly.in/status/1138",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "dasta-concerto-basement",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4432,
-    "timeDay": 9672,
-    "timeWeek": 5546,
-    "timeMonth": 4432,
-    "timeYear": 4432,
+    "time": 4489,
+    "timeDay": 9419,
+    "timeWeek": 5638,
+    "timeMonth": 4489,
+    "timeYear": 4489,
     "dailyMinutesDown": {}
   }
 ]
