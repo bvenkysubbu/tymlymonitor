@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 3080,
     "timeDay": 2820,
-    "timeWeek": 2437,
+    "timeWeek": 2506,
     "timeMonth": 3112,
     "timeYear": 3080,
     "dailyMinutesDown": {}
@@ -301,7 +301,7 @@
     "time": 6508,
     "timeDay": 4510,
     "timeWeek": 2964,
-    "timeMonth": 6160,
+    "timeMonth": 6094,
     "timeYear": 6508,
     "dailyMinutesDown": {}
   },
@@ -508,17 +508,17 @@
     "url": "https://cloud.tymly.in/status/1039",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7794,
-    "timeDay": 10119,
-    "timeWeek": 8607,
-    "timeMonth": 7534,
-    "timeYear": 7794,
+    "time": 7776,
+    "timeDay": 9412,
+    "timeWeek": 8509,
+    "timeMonth": 7513,
+    "timeYear": 7776,
     "dailyMinutesDown": {}
   },
   {
@@ -787,7 +787,7 @@
     "time": 9025,
     "timeDay": 3329,
     "timeWeek": 8516,
-    "timeMonth": 8993,
+    "timeMonth": 8955,
     "timeYear": 9025,
     "dailyMinutesDown": {}
   },
@@ -840,7 +840,7 @@
     "uptimeYear": "100.00%",
     "time": 3495,
     "timeDay": 224,
-    "timeWeek": 3791,
+    "timeWeek": 3724,
     "timeMonth": 3700,
     "timeYear": 3495,
     "dailyMinutesDown": {}
@@ -1236,7 +1236,7 @@
     "uptimeYear": "100.00%",
     "time": 7185,
     "timeDay": 15199,
-    "timeWeek": 7935,
+    "timeWeek": 7496,
     "timeMonth": 7256,
     "timeYear": 7185,
     "dailyMinutesDown": {}
@@ -1272,7 +1272,7 @@
     "uptimeYear": "100.00%",
     "time": 8797,
     "timeDay": 9386,
-    "timeWeek": 8698,
+    "timeWeek": 8359,
     "timeMonth": 8123,
     "timeYear": 8797,
     "dailyMinutesDown": {}
@@ -1758,7 +1758,7 @@
     "uptimeYear": "100.00%",
     "time": 10082,
     "timeDay": 8808,
-    "timeWeek": 9752,
+    "timeWeek": 9480,
     "timeMonth": 10313,
     "timeYear": 10082,
     "dailyMinutesDown": {}
