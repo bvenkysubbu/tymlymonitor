@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 2302,
     "timeDay": 241,
-    "timeWeek": 2477,
+    "timeWeek": 2609,
     "timeMonth": 2274,
     "timeYear": 2302,
     "dailyMinutesDown": {}
@@ -787,7 +787,7 @@
     "time": 9073,
     "timeDay": 8670,
     "timeWeek": 8190,
-    "timeMonth": 9269,
+    "timeMonth": 9303,
     "timeYear": 9073,
     "dailyMinutesDown": {}
   },
@@ -1021,7 +1021,7 @@
     "time": 2435,
     "timeDay": 3654,
     "timeWeek": 2331,
-    "timeMonth": 2258,
+    "timeMonth": 2117,
     "timeYear": 2435,
     "dailyMinutesDown": {}
   },
@@ -1201,7 +1201,7 @@
     "time": 3111,
     "timeDay": 2725,
     "timeWeek": 4854,
-    "timeMonth": 3517,
+    "timeMonth": 3528,
     "timeYear": 3111,
     "dailyMinutesDown": {}
   },
@@ -1219,7 +1219,7 @@
     "time": 3082,
     "timeDay": 4271,
     "timeWeek": 6241,
-    "timeMonth": 3542,
+    "timeMonth": 3538,
     "timeYear": 3082,
     "dailyMinutesDown": {}
   },
@@ -1264,17 +1264,17 @@
     "url": "https://cloud.tymly.in/status/1101",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sowparnika-swastika-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8752,
-    "timeDay": 11002,
-    "timeWeek": 7813,
-    "timeMonth": 7919,
-    "timeYear": 8752,
+    "time": 8809,
+    "timeDay": 15618,
+    "timeWeek": 8148,
+    "timeMonth": 8010,
+    "timeYear": 8809,
     "dailyMinutesDown": {}
   },
   {
