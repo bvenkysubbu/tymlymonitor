@@ -463,7 +463,7 @@
     "time": 5088,
     "timeDay": 2798,
     "timeWeek": 4577,
-    "timeMonth": 5097,
+    "timeMonth": 5144,
     "timeYear": 5088,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 6655,
     "timeDay": 13192,
     "timeWeek": 6657,
-    "timeMonth": 6569,
+    "timeMonth": 6625,
     "timeYear": 6655,
     "dailyMinutesDown": {}
   },
@@ -768,7 +768,7 @@
     "uptimeYear": "100.00%",
     "time": 4096,
     "timeDay": 13871,
-    "timeWeek": 6766,
+    "timeWeek": 6585,
     "timeMonth": 4639,
     "timeYear": 4096,
     "dailyMinutesDown": {}
@@ -850,17 +850,17 @@
     "url": "https://cloud.tymly.in/status/1063",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "test-20148",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 220,
-    "timeWeek": 439,
-    "timeMonth": 731,
-    "timeYear": 911,
+    "time": 1006,
+    "timeDay": 3325,
+    "timeWeek": 1038,
+    "timeMonth": 870,
+    "timeYear": 1006,
     "dailyMinutesDown": {}
   },
   {
@@ -913,7 +913,7 @@
     "time": 3161,
     "timeDay": 7943,
     "timeWeek": 4454,
-    "timeMonth": 2923,
+    "timeMonth": 3003,
     "timeYear": 3161,
     "dailyMinutesDown": {}
   },
@@ -1183,7 +1183,7 @@
     "time": 3590,
     "timeDay": 4437,
     "timeWeek": 5724,
-    "timeMonth": 4078,
+    "timeMonth": 4144,
     "timeYear": 3590,
     "dailyMinutesDown": {}
   },
