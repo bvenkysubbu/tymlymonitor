@@ -391,7 +391,7 @@
     "time": 6780,
     "timeDay": 2728,
     "timeWeek": 7250,
-    "timeMonth": 6876,
+    "timeMonth": 6767,
     "timeYear": 6780,
     "dailyMinutesDown": {}
   },
@@ -508,17 +508,17 @@
     "url": "https://cloud.tymly.in/status/1039",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7785,
-    "timeDay": 8602,
-    "timeWeek": 7841,
+    "time": 7770,
+    "timeDay": 8004,
+    "timeWeek": 7731,
     "timeMonth": 7508,
-    "timeYear": 7785,
+    "timeYear": 7770,
     "dailyMinutesDown": {}
   },
   {
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 2338,
     "timeDay": 1158,
-    "timeWeek": 3234,
+    "timeWeek": 3434,
     "timeMonth": 2485,
     "timeYear": 2338,
     "dailyMinutesDown": {}
@@ -787,7 +787,7 @@
     "time": 9319,
     "timeDay": 10320,
     "timeWeek": 10897,
-    "timeMonth": 9860,
+    "timeMonth": 9897,
     "timeYear": 9319,
     "dailyMinutesDown": {}
   },
@@ -930,7 +930,7 @@
     "uptimeYear": "100.00%",
     "time": 4982,
     "timeDay": 8648,
-    "timeWeek": 5233,
+    "timeWeek": 4885,
     "timeMonth": 5074,
     "timeYear": 4982,
     "dailyMinutesDown": {}
@@ -949,7 +949,7 @@
     "time": 3388,
     "timeDay": 1895,
     "timeWeek": 4531,
-    "timeMonth": 4251,
+    "timeMonth": 4292,
     "timeYear": 3388,
     "dailyMinutesDown": {}
   },
@@ -1037,8 +1037,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3934,
-    "timeDay": 2134,
-    "timeWeek": 3240,
+    "timeDay": 3087,
+    "timeWeek": 3143,
     "timeMonth": 3592,
     "timeYear": 3934,
     "dailyMinutesDown": {}
@@ -1074,7 +1074,7 @@
     "uptimeYear": "100.00%",
     "time": 5155,
     "timeDay": 5323,
-    "timeWeek": 6884,
+    "timeWeek": 6988,
     "timeMonth": 5660,
     "timeYear": 5155,
     "dailyMinutesDown": {}
@@ -1255,7 +1255,7 @@
     "time": 4307,
     "timeDay": 4787,
     "timeWeek": 6622,
-    "timeMonth": 4971,
+    "timeMonth": 5021,
     "timeYear": 4307,
     "dailyMinutesDown": {}
   },
@@ -1794,7 +1794,7 @@
     "uptimeYear": "100.00%",
     "time": 5311,
     "timeDay": 7503,
-    "timeWeek": 8970,
+    "timeWeek": 9129,
     "timeMonth": 5846,
     "timeYear": 5311,
     "dailyMinutesDown": {}
@@ -1938,7 +1938,7 @@
     "uptimeYear": "100.00%",
     "time": 5114,
     "timeDay": 2956,
-    "timeWeek": 6876,
+    "timeWeek": 6583,
     "timeMonth": 5114,
     "timeYear": 5114,
     "dailyMinutesDown": {}
