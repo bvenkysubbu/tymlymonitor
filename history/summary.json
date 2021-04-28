@@ -157,7 +157,7 @@
     "time": 2367,
     "timeDay": 1637,
     "timeWeek": 2529,
-    "timeMonth": 2789,
+    "timeMonth": 2794,
     "timeYear": 2367,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 6261,
     "timeDay": 10226,
     "timeWeek": 6474,
-    "timeMonth": 4662,
+    "timeMonth": 4634,
     "timeYear": 6261,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 1980,
     "timeDay": 2822,
     "timeWeek": 6523,
-    "timeMonth": 2049,
+    "timeMonth": 2042,
     "timeYear": 1980,
     "dailyMinutesDown": {}
   },
@@ -515,9 +515,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7862,
-    "timeDay": 7525,
+    "timeDay": 6618,
     "timeWeek": 8365,
-    "timeMonth": 8035,
+    "timeMonth": 8057,
     "timeYear": 7862,
     "dailyMinutesDown": {}
   },
@@ -751,7 +751,7 @@
     "time": 2458,
     "timeDay": 7210,
     "timeWeek": 2886,
-    "timeMonth": 2844,
+    "timeMonth": 2815,
     "timeYear": 2458,
     "dailyMinutesDown": {}
   },
@@ -787,7 +787,7 @@
     "time": 9229,
     "timeDay": 5099,
     "timeWeek": 8999,
-    "timeMonth": 9822,
+    "timeMonth": 9803,
     "timeYear": 9229,
     "dailyMinutesDown": {}
   },
@@ -1111,7 +1111,7 @@
     "time": 4398,
     "timeDay": 4477,
     "timeWeek": 7762,
-    "timeMonth": 4845,
+    "timeMonth": 4868,
     "timeYear": 4398,
     "dailyMinutesDown": {}
   },
@@ -1758,7 +1758,7 @@
     "uptimeYear": "100.00%",
     "time": 4920,
     "timeDay": 9929,
-    "timeWeek": 8610,
+    "timeWeek": 8945,
     "timeMonth": 6088,
     "timeYear": 4920,
     "dailyMinutesDown": {}
@@ -1858,17 +1858,17 @@
     "url": "https://cloud.tymly.in/status/1135",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "madhuban-brindavan-a-block",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3640,
-    "timeDay": 3244,
-    "timeWeek": 4695,
-    "timeMonth": 3640,
-    "timeYear": 3640,
+    "time": 3651,
+    "timeDay": 3583,
+    "timeWeek": 4691,
+    "timeMonth": 3651,
+    "timeYear": 3651,
     "dailyMinutesDown": {}
   },
   {
@@ -1902,7 +1902,7 @@
     "uptimeYear": "100.00%",
     "time": 6036,
     "timeDay": 11516,
-    "timeWeek": 9661,
+    "timeWeek": 9105,
     "timeMonth": 6036,
     "timeYear": 6036,
     "dailyMinutesDown": {}
@@ -1920,7 +1920,7 @@
     "uptimeYear": "100.00%",
     "time": 5226,
     "timeDay": 1656,
-    "timeWeek": 6056,
+    "timeWeek": 5403,
     "timeMonth": 5226,
     "timeYear": 5226,
     "dailyMinutesDown": {}
