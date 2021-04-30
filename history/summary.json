@@ -382,17 +382,17 @@
     "url": "https://cloud.tymly.in/status/1028",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "adithya-pristine-kmc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6823,
-    "timeDay": 14551,
-    "timeWeek": 8575,
-    "timeMonth": 7238,
-    "timeYear": 6823,
+    "time": 6783,
+    "timeDay": 9775,
+    "timeWeek": 7879,
+    "timeMonth": 7173,
+    "timeYear": 6783,
     "dailyMinutesDown": {}
   },
   {
@@ -462,7 +462,7 @@
     "uptimeYear": "100.00%",
     "time": 5152,
     "timeDay": 0,
-    "timeWeek": 4671,
+    "timeWeek": 4821,
     "timeMonth": 5459,
     "timeYear": 5152,
     "dailyMinutesDown": {}
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7759,
     "timeDay": 5515,
-    "timeWeek": 7624,
+    "timeWeek": 7648,
     "timeMonth": 7847,
     "timeYear": 7759,
     "dailyMinutesDown": {}
@@ -787,7 +787,7 @@
     "time": 9248,
     "timeDay": 14274,
     "timeWeek": 8619,
-    "timeMonth": 9827,
+    "timeMonth": 9854,
     "timeYear": 9248,
     "dailyMinutesDown": {}
   },
@@ -948,7 +948,7 @@
     "uptimeYear": "100.00%",
     "time": 3453,
     "timeDay": 0,
-    "timeWeek": 3981,
+    "timeWeek": 2627,
     "timeMonth": 4461,
     "timeYear": 3453,
     "dailyMinutesDown": {}
@@ -1902,7 +1902,7 @@
     "uptimeYear": "100.00%",
     "time": 6209,
     "timeDay": 0,
-    "timeWeek": 9969,
+    "timeWeek": 9856,
     "timeMonth": 6209,
     "timeYear": 6209,
     "dailyMinutesDown": {}
@@ -1920,7 +1920,7 @@
     "uptimeYear": "100.00%",
     "time": 5638,
     "timeDay": 9593,
-    "timeWeek": 6459,
+    "timeWeek": 6317,
     "timeMonth": 5638,
     "timeYear": 5638,
     "dailyMinutesDown": {}
