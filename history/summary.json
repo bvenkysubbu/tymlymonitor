@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 3693,
     "timeDay": 0,
-    "timeWeek": 3204,
+    "timeWeek": 3584,
     "timeMonth": 3857,
     "timeYear": 3693,
     "dailyMinutesDown": {}
@@ -229,7 +229,7 @@
     "time": 6653,
     "timeDay": 10483,
     "timeWeek": 6300,
-    "timeMonth": 7574,
+    "timeMonth": 7633,
     "timeYear": 6653,
     "dailyMinutesDown": {}
   },
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 4528,
     "timeDay": 0,
-    "timeWeek": 8061,
+    "timeWeek": 8551,
     "timeMonth": 4816,
     "timeYear": 4528,
     "dailyMinutesDown": {}
@@ -301,7 +301,7 @@
     "time": 6074,
     "timeDay": 1878,
     "timeWeek": 4424,
-    "timeMonth": 3913,
+    "timeMonth": 3876,
     "timeYear": 6074,
     "dailyMinutesDown": {}
   },
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7790,
     "timeDay": 12218,
-    "timeWeek": 7581,
+    "timeWeek": 7489,
     "timeMonth": 7898,
     "timeYear": 7790,
     "dailyMinutesDown": {}
@@ -1182,7 +1182,7 @@
     "uptimeYear": "100.00%",
     "time": 3553,
     "timeDay": 0,
-    "timeWeek": 4834,
+    "timeWeek": 5127,
     "timeMonth": 3957,
     "timeYear": 3553,
     "dailyMinutesDown": {}
@@ -1200,7 +1200,7 @@
     "uptimeYear": "100.00%",
     "time": 3232,
     "timeDay": 0,
-    "timeWeek": 3110,
+    "timeWeek": 3210,
     "timeMonth": 3731,
     "timeYear": 3232,
     "dailyMinutesDown": {}
@@ -1741,7 +1741,7 @@
     "time": 10247,
     "timeDay": 7752,
     "timeWeek": 5671,
-    "timeMonth": 10365,
+    "timeMonth": 10312,
     "timeYear": 10247,
     "dailyMinutesDown": {}
   },
@@ -1768,17 +1768,17 @@
     "url": "https://cloud.tymly.in/status/1130",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6084,
-    "timeDay": 0,
-    "timeWeek": 9470,
-    "timeMonth": 6502,
-    "timeYear": 6084,
+    "time": 6062,
+    "timeDay": 2697,
+    "timeWeek": 9252,
+    "timeMonth": 6470,
+    "timeYear": 6062,
     "dailyMinutesDown": {}
   },
   {
@@ -1938,7 +1938,7 @@
     "uptimeYear": "100.00%",
     "time": 6118,
     "timeDay": 0,
-    "timeWeek": 7178,
+    "timeWeek": 7758,
     "timeMonth": 6118,
     "timeYear": 6118,
     "dailyMinutesDown": {}
