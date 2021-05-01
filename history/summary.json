@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7802,
     "timeDay": 10394,
-    "timeWeek": 7226,
+    "timeWeek": 7236,
     "timeMonth": 7957,
     "timeYear": 7802,
     "dailyMinutesDown": {}
@@ -742,17 +742,17 @@
     "url": "https://cloud.tymly.in/status/1055",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sandeep-vihar-club-house",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2665,
-    "timeDay": 1968,
+    "time": 2674,
+    "timeDay": 2694,
     "timeWeek": 4122,
-    "timeMonth": 2991,
-    "timeYear": 2665,
+    "timeMonth": 3000,
+    "timeYear": 2674,
     "dailyMinutesDown": {}
   },
   {
@@ -1092,7 +1092,7 @@
     "uptimeYear": "100.00%",
     "time": 6209,
     "timeDay": 10848,
-    "timeWeek": 7690,
+    "timeWeek": 7883,
     "timeMonth": 6559,
     "timeYear": 6209,
     "dailyMinutesDown": {}
@@ -1758,7 +1758,7 @@
     "uptimeYear": "100.00%",
     "time": 5039,
     "timeDay": 1817,
-    "timeWeek": 5621,
+    "timeWeek": 5765,
     "timeMonth": 6218,
     "timeYear": 5039,
     "dailyMinutesDown": {}
@@ -1776,7 +1776,7 @@
     "uptimeYear": "100.00%",
     "time": 6013,
     "timeDay": 2403,
-    "timeWeek": 8446,
+    "timeWeek": 8144,
     "timeMonth": 6412,
     "timeYear": 6013,
     "dailyMinutesDown": {}
