@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 3792,
     "timeDay": 5481,
-    "timeWeek": 5859,
+    "timeWeek": 6075,
     "timeMonth": 3819,
     "timeYear": 3792,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 6517,
     "timeDay": 5560,
-    "timeWeek": 5298,
+    "timeWeek": 5459,
     "timeMonth": 7486,
     "timeYear": 6517,
     "dailyMinutesDown": {}
@@ -786,7 +786,7 @@
     "uptimeYear": "100.00%",
     "time": 9180,
     "timeDay": 1425,
-    "timeWeek": 7676,
+    "timeWeek": 8014,
     "timeMonth": 9480,
     "timeYear": 9180,
     "dailyMinutesDown": {}
@@ -1030,7 +1030,7 @@
     "url": "https://cloud.tymly.in/status/1083",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "mahaveer-varna-a1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1255,7 +1255,7 @@
     "time": 9185,
     "timeDay": 1765,
     "timeWeek": 6813,
-    "timeMonth": 9185,
+    "timeMonth": 9115,
     "timeYear": 9185,
     "dailyMinutesDown": {}
   },
