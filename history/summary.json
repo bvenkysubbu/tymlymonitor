@@ -13,7 +13,7 @@
     "time": 6223,
     "timeDay": 4512,
     "timeWeek": 7991,
-    "timeMonth": 7432,
+    "timeMonth": 7250,
     "timeYear": 6223,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 3792,
     "timeDay": 5481,
     "timeWeek": 5859,
-    "timeMonth": 4004,
+    "timeMonth": 3819,
     "timeYear": 3792,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 2182,
     "timeDay": 3737,
     "timeWeek": 4784,
-    "timeMonth": 2910,
+    "timeMonth": 2957,
     "timeYear": 2182,
     "dailyMinutesDown": {}
   },
@@ -1003,7 +1003,7 @@
     "time": 3251,
     "timeDay": 4545,
     "timeWeek": 3633,
-    "timeMonth": 3909,
+    "timeMonth": 3942,
     "timeYear": 3251,
     "dailyMinutesDown": {}
   },
@@ -1021,7 +1021,7 @@
     "time": 2657,
     "timeDay": 213,
     "timeWeek": 1851,
-    "timeMonth": 2652,
+    "timeMonth": 2672,
     "timeYear": 2657,
     "dailyMinutesDown": {}
   },
@@ -1093,7 +1093,7 @@
     "time": 6186,
     "timeDay": 3773,
     "timeWeek": 8670,
-    "timeMonth": 6877,
+    "timeMonth": 6747,
     "timeYear": 6186,
     "dailyMinutesDown": {}
   },
@@ -1120,17 +1120,17 @@
     "url": "https://cloud.tymly.in/status/1093",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "smr-vinay-cascade-b-block",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8610,
-    "timeDay": 5680,
-    "timeWeek": 8915,
-    "timeMonth": 8933,
-    "timeYear": 8610,
+    "time": 8601,
+    "timeDay": 6071,
+    "timeWeek": 8851,
+    "timeMonth": 8998,
+    "timeYear": 8601,
     "dailyMinutesDown": {}
   },
   {
