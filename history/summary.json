@@ -301,7 +301,7 @@
     "time": 6067,
     "timeDay": 6655,
     "timeWeek": 4058,
-    "timeMonth": 4242,
+    "timeMonth": 4284,
     "timeYear": 6067,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 2182,
     "timeDay": 3737,
     "timeWeek": 4784,
-    "timeMonth": 2957,
+    "timeMonth": 2963,
     "timeYear": 2182,
     "dailyMinutesDown": {}
   },
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7774,
     "timeDay": 3421,
-    "timeWeek": 6635,
+    "timeWeek": 6573,
     "timeMonth": 7974,
     "timeYear": 7774,
     "dailyMinutesDown": {}
@@ -661,7 +661,7 @@
     "time": 3952,
     "timeDay": 1531,
     "timeWeek": 2228,
-    "timeMonth": 4185,
+    "timeMonth": 4261,
     "timeYear": 3952,
     "dailyMinutesDown": {}
   },
@@ -679,7 +679,7 @@
     "time": 3286,
     "timeDay": 1495,
     "timeWeek": 4130,
-    "timeMonth": 3896,
+    "timeMonth": 3969,
     "timeYear": 3286,
     "dailyMinutesDown": {}
   },
@@ -697,7 +697,7 @@
     "time": 3374,
     "timeDay": 1508,
     "timeWeek": 3971,
-    "timeMonth": 3566,
+    "timeMonth": 3640,
     "timeYear": 3374,
     "dailyMinutesDown": {}
   },
@@ -760,17 +760,17 @@
     "url": "https://cloud.tymly.in/status/1058",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "prakruthi-villas-sarjapura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5082,
-    "timeDay": 3334,
-    "timeWeek": 6819,
-    "timeMonth": 6000,
-    "timeYear": 5082,
+    "time": 5180,
+    "timeDay": 6715,
+    "timeWeek": 7213,
+    "timeMonth": 6111,
+    "timeYear": 5180,
     "dailyMinutesDown": {}
   },
   {
@@ -1003,7 +1003,7 @@
     "time": 3251,
     "timeDay": 4545,
     "timeWeek": 3633,
-    "timeMonth": 3942,
+    "timeMonth": 3952,
     "timeYear": 3251,
     "dailyMinutesDown": {}
   },
@@ -1021,7 +1021,7 @@
     "time": 2657,
     "timeDay": 213,
     "timeWeek": 1851,
-    "timeMonth": 2672,
+    "timeMonth": 2664,
     "timeYear": 2657,
     "dailyMinutesDown": {}
   },
@@ -1759,7 +1759,7 @@
     "time": 5250,
     "timeDay": 7366,
     "timeWeek": 6905,
-    "timeMonth": 6535,
+    "timeMonth": 6413,
     "timeYear": 5250,
     "dailyMinutesDown": {}
   },
@@ -1777,7 +1777,7 @@
     "time": 5815,
     "timeDay": 4120,
     "timeWeek": 4176,
-    "timeMonth": 6630,
+    "timeMonth": 6688,
     "timeYear": 5815,
     "dailyMinutesDown": {}
   },
@@ -1795,7 +1795,7 @@
     "time": 3396,
     "timeDay": 216,
     "timeWeek": 5183,
-    "timeMonth": 4225,
+    "timeMonth": 4000,
     "timeYear": 3396,
     "dailyMinutesDown": {}
   },
@@ -1813,7 +1813,7 @@
     "time": 5070,
     "timeDay": 1832,
     "timeWeek": 4183,
-    "timeMonth": 5419,
+    "timeMonth": 5192,
     "timeYear": 5070,
     "dailyMinutesDown": {}
   },
@@ -1867,7 +1867,7 @@
     "time": 3512,
     "timeDay": 213,
     "timeWeek": 2041,
-    "timeMonth": 3616,
+    "timeMonth": 3423,
     "timeYear": 3512,
     "dailyMinutesDown": {}
   },
@@ -1921,7 +1921,7 @@
     "time": 5442,
     "timeDay": 2562,
     "timeWeek": 6114,
-    "timeMonth": 5368,
+    "timeMonth": 5416,
     "timeYear": 5442,
     "dailyMinutesDown": {}
   },
