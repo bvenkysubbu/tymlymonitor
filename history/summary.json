@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 6517,
     "timeDay": 5560,
-    "timeWeek": 5306,
+    "timeWeek": 5298,
     "timeMonth": 7486,
     "timeYear": 6517,
     "dailyMinutesDown": {}
@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 6067,
     "timeDay": 6655,
-    "timeWeek": 4695,
+    "timeWeek": 4074,
     "timeMonth": 4242,
     "timeYear": 6067,
     "dailyMinutesDown": {}
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7774,
     "timeDay": 3421,
-    "timeWeek": 6912,
+    "timeWeek": 6635,
     "timeMonth": 7974,
     "timeYear": 7774,
     "dailyMinutesDown": {}
@@ -1146,7 +1146,7 @@
     "uptimeYear": "100.00%",
     "time": 12192,
     "timeDay": 7341,
-    "timeWeek": 13455,
+    "timeWeek": 13587,
     "timeMonth": 12780,
     "timeYear": 12192,
     "dailyMinutesDown": {}
@@ -1722,7 +1722,7 @@
     "uptimeYear": "100.00%",
     "time": 5302,
     "timeDay": 5752,
-    "timeWeek": 4731,
+    "timeWeek": 5142,
     "timeMonth": 6328,
     "timeYear": 5302,
     "dailyMinutesDown": {}
@@ -1740,7 +1740,7 @@
     "uptimeYear": "100.00%",
     "time": 10043,
     "timeDay": 1517,
-    "timeWeek": 3970,
+    "timeWeek": 4260,
     "timeMonth": 9870,
     "timeYear": 10043,
     "dailyMinutesDown": {}
@@ -1885,7 +1885,7 @@
     "time": 3979,
     "timeDay": 1847,
     "timeWeek": 3674,
-    "timeMonth": 4225,
+    "timeMonth": 4292,
     "timeYear": 3979,
     "dailyMinutesDown": {}
   },
@@ -1930,17 +1930,17 @@
     "url": "https://cloud.tymly.in/status/1139",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sunshine-silicon-citi-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5515,
-    "timeDay": 1589,
-    "timeWeek": 3874,
-    "timeMonth": 5515,
-    "timeYear": 5515,
+    "time": 5901,
+    "timeDay": 7794,
+    "timeWeek": 5359,
+    "timeMonth": 5901,
+    "timeYear": 5901,
     "dailyMinutesDown": {}
   },
   {
