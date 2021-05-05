@@ -355,7 +355,7 @@
     "time": 2185,
     "timeDay": 4387,
     "timeWeek": 4785,
-    "timeMonth": 3004,
+    "timeMonth": 3055,
     "timeYear": 2185,
     "dailyMinutesDown": {}
   },
@@ -364,17 +364,17 @@
     "url": "https://cloud.tymly.in/status/1027",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "dsr-sunrise-towers-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 9907,
-    "timeWeek": 4133,
-    "timeMonth": 2183,
-    "timeYear": 1529,
+    "time": 1626,
+    "timeDay": 9410,
+    "timeWeek": 4403,
+    "timeMonth": 2316,
+    "timeYear": 1626,
     "dailyMinutesDown": {}
   },
   {
@@ -517,7 +517,7 @@
     "time": 7765,
     "timeDay": 4038,
     "timeWeek": 6536,
-    "timeMonth": 7982,
+    "timeMonth": 7996,
     "timeYear": 7765,
     "dailyMinutesDown": {}
   },
@@ -948,7 +948,7 @@
     "uptimeYear": "100.00%",
     "time": 3316,
     "timeDay": 1516,
-    "timeWeek": 1995,
+    "timeWeek": 2114,
     "timeMonth": 4080,
     "timeYear": 3316,
     "dailyMinutesDown": {}
@@ -1776,7 +1776,7 @@
     "uptimeYear": "100.00%",
     "time": 5793,
     "timeDay": 5304,
-    "timeWeek": 2529,
+    "timeWeek": 2491,
     "timeMonth": 6676,
     "timeYear": 5793,
     "dailyMinutesDown": {}
@@ -1921,7 +1921,7 @@
     "time": 5420,
     "timeDay": 3873,
     "timeWeek": 5932,
-    "timeMonth": 5472,
+    "timeMonth": 5522,
     "timeYear": 5420,
     "dailyMinutesDown": {}
   },
