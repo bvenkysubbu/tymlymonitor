@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 3852,
     "timeDay": 5348,
-    "timeWeek": 6770,
+    "timeWeek": 7115,
     "timeMonth": 4400,
     "timeYear": 3852,
     "dailyMinutesDown": {}
@@ -624,7 +624,7 @@
     "uptimeYear": "100.00%",
     "time": 6340,
     "timeDay": 4451,
-    "timeWeek": 5698,
+    "timeWeek": 4084,
     "timeMonth": 6474,
     "timeYear": 6340,
     "dailyMinutesDown": {}
@@ -760,17 +760,17 @@
     "url": "https://cloud.tymly.in/status/1058",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "prakruthi-villas-sarjapura",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5243,
-    "timeDay": 7694,
-    "timeWeek": 7254,
-    "timeMonth": 6150,
-    "timeYear": 5243,
+    "time": 5247,
+    "timeDay": 7504,
+    "timeWeek": 6853,
+    "timeMonth": 6148,
+    "timeYear": 5247,
     "dailyMinutesDown": {}
   },
   {
@@ -1002,7 +1002,7 @@
     "uptimeYear": "100.00%",
     "time": 3251,
     "timeDay": 6066,
-    "timeWeek": 3548,
+    "timeWeek": 3706,
     "timeMonth": 4017,
     "timeYear": 3251,
     "dailyMinutesDown": {}
@@ -1092,7 +1092,7 @@
     "uptimeYear": "100.00%",
     "time": 6187,
     "timeDay": 6812,
-    "timeWeek": 8415,
+    "timeWeek": 8722,
     "timeMonth": 6771,
     "timeYear": 6187,
     "dailyMinutesDown": {}
@@ -1128,7 +1128,7 @@
     "uptimeYear": "100.00%",
     "time": 8635,
     "timeDay": 9579,
-    "timeWeek": 8854,
+    "timeWeek": 8399,
     "timeMonth": 9089,
     "timeYear": 8635,
     "dailyMinutesDown": {}
@@ -1758,7 +1758,7 @@
     "uptimeYear": "100.00%",
     "time": 5245,
     "timeDay": 8466,
-    "timeWeek": 6840,
+    "timeWeek": 6203,
     "timeMonth": 6392,
     "timeYear": 5245,
     "dailyMinutesDown": {}
@@ -1794,7 +1794,7 @@
     "uptimeYear": "100.00%",
     "time": 3381,
     "timeDay": 1728,
-    "timeWeek": 4906,
+    "timeWeek": 5240,
     "timeMonth": 3964,
     "timeYear": 3381,
     "dailyMinutesDown": {}
@@ -1812,7 +1812,7 @@
     "uptimeYear": "100.00%",
     "time": 5058,
     "timeDay": 3572,
-    "timeWeek": 3938,
+    "timeWeek": 2686,
     "timeMonth": 5175,
     "timeYear": 5058,
     "dailyMinutesDown": {}
@@ -1956,7 +1956,7 @@
     "uptimeYear": "100.00%",
     "time": 9698,
     "timeDay": 4700,
-    "timeWeek": 4721,
+    "timeWeek": 5131,
     "timeMonth": 9698,
     "timeYear": 9698,
     "dailyMinutesDown": {}
