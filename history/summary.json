@@ -427,7 +427,7 @@
     "time": 3159,
     "timeDay": 6128,
     "timeWeek": 3328,
-    "timeMonth": 3717,
+    "timeMonth": 3805,
     "timeYear": 3159,
     "dailyMinutesDown": {}
   },
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7752,
     "timeDay": 2081,
-    "timeWeek": 7066,
+    "timeWeek": 7184,
     "timeMonth": 7830,
     "timeYear": 7752,
     "dailyMinutesDown": {}
@@ -1012,17 +1012,17 @@
     "url": "https://cloud.tymly.in/status/1074",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sai-gardens-temple-side",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2646,
-    "timeDay": 1864,
-    "timeWeek": 2043,
-    "timeMonth": 2720,
-    "timeYear": 2646,
+    "time": 2635,
+    "timeDay": 1316,
+    "timeWeek": 1936,
+    "timeMonth": 2699,
+    "timeYear": 2635,
     "dailyMinutesDown": {}
   },
   {
@@ -1110,7 +1110,7 @@
     "uptimeYear": "100.00%",
     "time": 4378,
     "timeDay": 4273,
-    "timeWeek": 3399,
+    "timeWeek": 3433,
     "timeMonth": 5118,
     "timeYear": 4378,
     "dailyMinutesDown": {}
@@ -1128,7 +1128,7 @@
     "uptimeYear": "100.00%",
     "time": 8652,
     "timeDay": 12853,
-    "timeWeek": 8530,
+    "timeWeek": 8288,
     "timeMonth": 8972,
     "timeYear": 8652,
     "dailyMinutesDown": {}
@@ -1146,8 +1146,8 @@
     "uptimeYear": "100.00%",
     "time": 12286,
     "timeDay": 16007,
-    "timeWeek": 14013,
-    "timeMonth": 13084,
+    "timeWeek": 13892,
+    "timeMonth": 13041,
     "timeYear": 12286,
     "dailyMinutesDown": {}
   },
@@ -1920,7 +1920,7 @@
     "uptimeYear": "100.00%",
     "time": 5631,
     "timeDay": 6987,
-    "timeWeek": 6633,
+    "timeWeek": 6042,
     "timeMonth": 5783,
     "timeYear": 5631,
     "dailyMinutesDown": {}
@@ -1956,7 +1956,7 @@
     "uptimeYear": "100.00%",
     "time": 9607,
     "timeDay": 5983,
-    "timeWeek": 5918,
+    "timeWeek": 4028,
     "timeMonth": 9607,
     "timeYear": 9607,
     "dailyMinutesDown": {}
