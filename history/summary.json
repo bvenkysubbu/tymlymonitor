@@ -1948,17 +1948,17 @@
     "url": "https://cloud.tymly.in/status/1140",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9663,
-    "timeDay": 13958,
-    "timeWeek": 6057,
-    "timeMonth": 9663,
-    "timeYear": 9663,
+    "time": 9609,
+    "timeDay": 11674,
+    "timeWeek": 6144,
+    "timeMonth": 9609,
+    "timeYear": 9609,
     "dailyMinutesDown": {}
   }
 ]
