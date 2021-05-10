@@ -229,7 +229,7 @@
     "time": 6430,
     "timeDay": 2704,
     "timeWeek": 4752,
-    "timeMonth": 7091,
+    "timeMonth": 7138,
     "timeYear": 6430,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 3187,
     "timeDay": 4565,
     "timeWeek": 7686,
-    "timeMonth": 4117,
+    "timeMonth": 4140,
     "timeYear": 3187,
     "dailyMinutesDown": {}
   },
@@ -427,7 +427,7 @@
     "time": 3813,
     "timeDay": 9252,
     "timeWeek": 8587,
-    "timeMonth": 5604,
+    "timeMonth": 5686,
     "timeYear": 3813,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 2768,
     "timeDay": 2798,
     "timeWeek": 5380,
-    "timeMonth": 3646,
+    "timeMonth": 3683,
     "timeYear": 2768,
     "dailyMinutesDown": {}
   },
@@ -607,7 +607,7 @@
     "time": 4702,
     "timeDay": 2549,
     "timeWeek": 5908,
-    "timeMonth": 5919,
+    "timeMonth": 5993,
     "timeYear": 4702,
     "dailyMinutesDown": {}
   },
@@ -778,17 +778,17 @@
     "url": "https://cloud.tymly.in/status/1059",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "psr-aster-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9159,
-    "timeDay": 10648,
-    "timeWeek": 8551,
-    "timeMonth": 9240,
-    "timeYear": 9159,
+    "time": 9162,
+    "timeDay": 10628,
+    "timeWeek": 8591,
+    "timeMonth": 9247,
+    "timeYear": 9162,
     "dailyMinutesDown": {}
   },
   {
@@ -1003,7 +1003,7 @@
     "time": 3462,
     "timeDay": 4897,
     "timeWeek": 5373,
-    "timeMonth": 4606,
+    "timeMonth": 4626,
     "timeYear": 3462,
     "dailyMinutesDown": {}
   },
@@ -1021,7 +1021,7 @@
     "time": 2624,
     "timeDay": 3718,
     "timeWeek": 1526,
-    "timeMonth": 2901,
+    "timeMonth": 2903,
     "timeYear": 2624,
     "dailyMinutesDown": {}
   },
