@@ -4,17 +4,17 @@
     "url": "https://cloud.tymly.in/status/1003",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6720,
-    "timeDay": 5873,
-    "timeWeek": 7117,
-    "timeMonth": 7749,
-    "timeYear": 6720,
+    "time": 6714,
+    "timeDay": 4901,
+    "timeWeek": 7097,
+    "timeMonth": 7733,
+    "timeYear": 6714,
     "dailyMinutesDown": {}
   },
   {
@@ -301,7 +301,7 @@
     "time": 5904,
     "timeDay": 1936,
     "timeWeek": 4055,
-    "timeMonth": 4575,
+    "timeMonth": 4592,
     "timeYear": 5904,
     "dailyMinutesDown": {}
   },
@@ -786,7 +786,7 @@
     "uptimeYear": "100.00%",
     "time": 9175,
     "timeDay": 7391,
-    "timeWeek": 9453,
+    "timeWeek": 9395,
     "timeMonth": 9347,
     "timeYear": 9175,
     "dailyMinutesDown": {}
@@ -1003,7 +1003,7 @@
     "time": 3598,
     "timeDay": 2972,
     "timeWeek": 4737,
-    "timeMonth": 4690,
+    "timeMonth": 4698,
     "timeYear": 3598,
     "dailyMinutesDown": {}
   },
@@ -1021,7 +1021,7 @@
     "time": 2783,
     "timeDay": 3835,
     "timeWeek": 4129,
-    "timeMonth": 3491,
+    "timeMonth": 3473,
     "timeYear": 2783,
     "dailyMinutesDown": {}
   },
@@ -1741,7 +1741,7 @@
     "time": 9763,
     "timeDay": 8835,
     "timeWeek": 7357,
-    "timeMonth": 9348,
+    "timeMonth": 9394,
     "timeYear": 9763,
     "dailyMinutesDown": {}
   },
