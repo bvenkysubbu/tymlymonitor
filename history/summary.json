@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6588,
     "timeDay": 2387,
-    "timeWeek": 6650,
+    "timeWeek": 6734,
     "timeMonth": 7530,
     "timeYear": 6588,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 3965,
     "timeDay": 2814,
-    "timeWeek": 3296,
+    "timeWeek": 3603,
     "timeMonth": 4401,
     "timeYear": 3965,
     "dailyMinutesDown": {}
@@ -517,7 +517,7 @@
     "time": 7739,
     "timeDay": 10116,
     "timeWeek": 8087,
-    "timeMonth": 7738,
+    "timeMonth": 7692,
     "timeYear": 7739,
     "dailyMinutesDown": {}
   },
@@ -642,7 +642,7 @@
     "uptimeYear": "100.00%",
     "time": 5701,
     "timeDay": 6541,
-    "timeWeek": 5549,
+    "timeWeek": 4882,
     "timeMonth": 6858,
     "timeYear": 5701,
     "dailyMinutesDown": {}
@@ -660,7 +660,7 @@
     "uptimeYear": "100.00%",
     "time": 4975,
     "timeDay": 3175,
-    "timeWeek": 6465,
+    "timeWeek": 6084,
     "timeMonth": 6135,
     "timeYear": 4975,
     "dailyMinutesDown": {}
@@ -678,7 +678,7 @@
     "uptimeYear": "100.00%",
     "time": 4937,
     "timeDay": 2096,
-    "timeWeek": 7748,
+    "timeWeek": 7232,
     "timeMonth": 6784,
     "timeYear": 4937,
     "dailyMinutesDown": {}
@@ -714,7 +714,7 @@
     "uptimeYear": "100.00%",
     "time": 4140,
     "timeDay": 3818,
-    "timeWeek": 5808,
+    "timeWeek": 5267,
     "timeMonth": 5084,
     "timeYear": 4140,
     "dailyMinutesDown": {}
@@ -732,7 +732,7 @@
     "uptimeYear": "100.00%",
     "time": 4622,
     "timeDay": 2377,
-    "timeWeek": 6647,
+    "timeWeek": 5401,
     "timeMonth": 5414,
     "timeYear": 4622,
     "dailyMinutesDown": {}
@@ -1084,17 +1084,17 @@
     "url": "https://cloud.tymly.in/status/1086",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "mahaveer-varna-b3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6141,
-    "timeDay": 9871,
-    "timeWeek": 5589,
-    "timeMonth": 6428,
-    "timeYear": 6141,
+    "time": 6196,
+    "timeDay": 11596,
+    "timeWeek": 5974,
+    "timeMonth": 6548,
+    "timeYear": 6196,
     "dailyMinutesDown": {}
   },
   {
@@ -1182,7 +1182,7 @@
     "uptimeYear": "100.00%",
     "time": 4459,
     "timeDay": 2632,
-    "timeWeek": 4799,
+    "timeWeek": 5053,
     "timeMonth": 5740,
     "timeYear": 4459,
     "dailyMinutesDown": {}
@@ -1200,7 +1200,7 @@
     "uptimeYear": "100.00%",
     "time": 3876,
     "timeDay": 5300,
-    "timeWeek": 4505,
+    "timeWeek": 4743,
     "timeMonth": 4586,
     "timeYear": 3876,
     "dailyMinutesDown": {}
@@ -1938,7 +1938,7 @@
     "uptimeYear": "100.00%",
     "time": 5574,
     "timeDay": 9823,
-    "timeWeek": 4991,
+    "timeWeek": 5624,
     "timeMonth": 5584,
     "timeYear": 5574,
     "dailyMinutesDown": {}
