@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6562,
     "timeDay": 1133,
-    "timeWeek": 6758,
+    "timeWeek": 6732,
     "timeMonth": 7572,
     "timeYear": 6562,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 6723,
     "timeDay": 3410,
-    "timeWeek": 8918,
+    "timeWeek": 8541,
     "timeMonth": 7287,
     "timeYear": 6723,
     "dailyMinutesDown": {}
@@ -300,8 +300,8 @@
     "uptimeYear": "100.00%",
     "time": 5796,
     "timeDay": 2164,
-    "timeWeek": 3466,
-    "timeMonth": 4666,
+    "timeWeek": 2908,
+    "timeMonth": 4684,
     "timeYear": 5796,
     "dailyMinutesDown": {}
   },
@@ -354,7 +354,7 @@
     "uptimeYear": "100.00%",
     "time": 2558,
     "timeDay": 4353,
-    "timeWeek": 3549,
+    "timeWeek": 3280,
     "timeMonth": 5077,
     "timeYear": 2558,
     "dailyMinutesDown": {}
@@ -408,8 +408,8 @@
     "uptimeYear": "100.00%",
     "time": 3316,
     "timeDay": 2696,
-    "timeWeek": 4297,
-    "timeMonth": 4303,
+    "timeWeek": 4805,
+    "timeMonth": 4403,
     "timeYear": 3316,
     "dailyMinutesDown": {}
   },
@@ -427,7 +427,7 @@
     "time": 3536,
     "timeDay": 209,
     "timeWeek": 798,
-    "timeMonth": 4603,
+    "timeMonth": 4669,
     "timeYear": 3536,
     "dailyMinutesDown": {}
   },
@@ -444,8 +444,8 @@
     "uptimeYear": "100.00%",
     "time": 2850,
     "timeDay": 6288,
-    "timeWeek": 3684,
-    "timeMonth": 3835,
+    "timeWeek": 4116,
+    "timeMonth": 3931,
     "timeYear": 2850,
     "dailyMinutesDown": {}
   },
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7744,
     "timeDay": 8731,
-    "timeWeek": 8027,
+    "timeWeek": 8045,
     "timeMonth": 7748,
     "timeYear": 7744,
     "dailyMinutesDown": {}
@@ -606,7 +606,7 @@
     "uptimeYear": "100.00%",
     "time": 4632,
     "timeDay": 2542,
-    "timeWeek": 4815,
+    "timeWeek": 5024,
     "timeMonth": 5359,
     "timeYear": 4632,
     "dailyMinutesDown": {}
@@ -642,7 +642,7 @@
     "uptimeYear": "100.00%",
     "time": 5630,
     "timeDay": 5766,
-    "timeWeek": 4533,
+    "timeWeek": 4738,
     "timeMonth": 6707,
     "timeYear": 5630,
     "dailyMinutesDown": {}
@@ -660,7 +660,7 @@
     "uptimeYear": "100.00%",
     "time": 4972,
     "timeDay": 3538,
-    "timeWeek": 6148,
+    "timeWeek": 6376,
     "timeMonth": 6275,
     "timeYear": 4972,
     "dailyMinutesDown": {}
@@ -868,17 +868,17 @@
     "url": "https://cloud.tymly.in/status/1064",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "psr-aster-3-e-block",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6282,
-    "timeDay": 8743,
-    "timeWeek": 8522,
-    "timeMonth": 8076,
-    "timeYear": 6282,
+    "time": 6320,
+    "timeDay": 9098,
+    "timeWeek": 8639,
+    "timeMonth": 8116,
+    "timeYear": 6320,
     "dailyMinutesDown": {}
   },
   {
@@ -1111,7 +1111,7 @@
     "time": 4522,
     "timeDay": 6117,
     "timeWeek": 6169,
-    "timeMonth": 5909,
+    "timeMonth": 5743,
     "timeYear": 4522,
     "dailyMinutesDown": {}
   },
