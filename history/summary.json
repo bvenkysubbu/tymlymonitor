@@ -517,7 +517,7 @@
     "time": 7882,
     "timeDay": 12770,
     "timeWeek": 9921,
-    "timeMonth": 8136,
+    "timeMonth": 8088,
     "timeYear": 7882,
     "dailyMinutesDown": {}
   },
@@ -616,17 +616,17 @@
     "url": "https://cloud.tymly.in/status/1048",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "ruchira-lilium-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6378,
-    "timeDay": 7029,
-    "timeWeek": 5395,
-    "timeMonth": 6356,
-    "timeYear": 6378,
+    "time": 6384,
+    "timeDay": 7046,
+    "timeWeek": 5548,
+    "timeMonth": 6372,
+    "timeYear": 6384,
     "dailyMinutesDown": {}
   },
   {
@@ -751,7 +751,7 @@
     "time": 2607,
     "timeDay": 1545,
     "timeWeek": 594,
-    "timeMonth": 3038,
+    "timeMonth": 3079,
     "timeYear": 2607,
     "dailyMinutesDown": {}
   },
@@ -786,7 +786,7 @@
     "uptimeYear": "100.00%",
     "time": 9402,
     "timeDay": 13851,
-    "timeWeek": 10412,
+    "timeWeek": 10300,
     "timeMonth": 9549,
     "timeYear": 9402,
     "dailyMinutesDown": {}
@@ -913,7 +913,7 @@
     "time": 3373,
     "timeDay": 4406,
     "timeWeek": 3461,
-    "timeMonth": 3693,
+    "timeMonth": 3792,
     "timeYear": 3373,
     "dailyMinutesDown": {}
   },
@@ -949,7 +949,7 @@
     "time": 3250,
     "timeDay": 210,
     "timeWeek": 1430,
-    "timeMonth": 3076,
+    "timeMonth": 3081,
     "timeYear": 3250,
     "dailyMinutesDown": {}
   },
@@ -1183,7 +1183,7 @@
     "time": 4410,
     "timeDay": 6024,
     "timeWeek": 5170,
-    "timeMonth": 5621,
+    "timeMonth": 5599,
     "timeYear": 4410,
     "dailyMinutesDown": {}
   },
@@ -1201,7 +1201,7 @@
     "time": 3876,
     "timeDay": 6291,
     "timeWeek": 5054,
-    "timeMonth": 4511,
+    "timeMonth": 4567,
     "timeYear": 3876,
     "dailyMinutesDown": {}
   },
@@ -1867,7 +1867,7 @@
     "time": 3104,
     "timeDay": 210,
     "timeWeek": 1109,
-    "timeMonth": 2618,
+    "timeMonth": 2657,
     "timeYear": 3104,
     "dailyMinutesDown": {}
   },
