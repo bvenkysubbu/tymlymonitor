@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6483,
     "timeDay": 1038,
-    "timeWeek": 4598,
+    "timeWeek": 3995,
     "timeMonth": 7206,
     "timeYear": 6483,
     "dailyMinutesDown": {}
@@ -229,7 +229,7 @@
     "time": 6806,
     "timeDay": 7539,
     "timeWeek": 8850,
-    "timeMonth": 6964,
+    "timeMonth": 6973,
     "timeYear": 6806,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 4649,
     "timeDay": 4476,
     "timeWeek": 5569,
-    "timeMonth": 5861,
+    "timeMonth": 5968,
     "timeYear": 4649,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 5781,
     "timeDay": 2158,
     "timeWeek": 4129,
-    "timeMonth": 4693,
+    "timeMonth": 4696,
     "timeYear": 5781,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 3461,
     "timeDay": 8658,
     "timeWeek": 6457,
-    "timeMonth": 5212,
+    "timeMonth": 5180,
     "timeYear": 3461,
     "dailyMinutesDown": {}
   },
@@ -643,7 +643,7 @@
     "time": 5498,
     "timeDay": 230,
     "timeWeek": 3223,
-    "timeMonth": 6465,
+    "timeMonth": 6312,
     "timeYear": 5498,
     "dailyMinutesDown": {}
   },
@@ -661,7 +661,7 @@
     "time": 5010,
     "timeDay": 2622,
     "timeWeek": 6473,
-    "timeMonth": 6293,
+    "timeMonth": 6114,
     "timeYear": 5010,
     "dailyMinutesDown": {}
   },
@@ -1084,17 +1084,17 @@
     "url": "https://cloud.tymly.in/status/1086",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "mahaveer-varna-b3",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6268,
-    "timeDay": 11638,
-    "timeWeek": 7154,
-    "timeMonth": 6688,
-    "timeYear": 6268,
+    "time": 6258,
+    "timeDay": 11548,
+    "timeWeek": 7080,
+    "timeMonth": 6664,
+    "timeYear": 6258,
     "dailyMinutesDown": {}
   },
   {
@@ -1741,7 +1741,7 @@
     "time": 9722,
     "timeDay": 9720,
     "timeWeek": 9123,
-    "timeMonth": 7557,
+    "timeMonth": 7585,
     "timeYear": 9722,
     "dailyMinutesDown": {}
   },
