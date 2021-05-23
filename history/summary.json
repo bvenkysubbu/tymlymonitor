@@ -337,7 +337,7 @@
     "time": 2055,
     "timeDay": 2862,
     "timeWeek": 5176,
-    "timeMonth": 3989,
+    "timeMonth": 3923,
     "timeYear": 2055,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 2408,
     "timeDay": 1982,
     "timeWeek": 2492,
-    "timeMonth": 3726,
+    "timeMonth": 3732,
     "timeYear": 2408,
     "dailyMinutesDown": {}
   },
@@ -787,7 +787,7 @@
     "time": 9413,
     "timeDay": 13138,
     "timeWeek": 10731,
-    "timeMonth": 9631,
+    "timeMonth": 9589,
     "timeYear": 9413,
     "dailyMinutesDown": {}
   },
@@ -1001,8 +1001,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3651,
-    "timeDay": 3470,
-    "timeWeek": 3826,
+    "timeDay": 3454,
+    "timeWeek": 3821,
     "timeMonth": 4377,
     "timeYear": 3651,
     "dailyMinutesDown": {}
@@ -1019,8 +1019,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2793,
-    "timeDay": 2428,
-    "timeWeek": 3181,
+    "timeDay": 2332,
+    "timeWeek": 3138,
     "timeMonth": 3216,
     "timeYear": 2793,
     "dailyMinutesDown": {}
@@ -1091,7 +1091,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6121,
-    "timeDay": 6389,
+    "timeDay": 7414,
     "timeWeek": 6303,
     "timeMonth": 6374,
     "timeYear": 6121,
@@ -1146,7 +1146,7 @@
     "uptimeYear": "100.00%",
     "time": 12780,
     "timeDay": 14964,
-    "timeWeek": 12880,
+    "timeWeek": 13019,
     "timeMonth": 13942,
     "timeYear": 12780,
     "dailyMinutesDown": {}
@@ -1254,7 +1254,7 @@
     "uptimeYear": "100.00%",
     "time": 9155,
     "timeDay": 2749,
-    "timeWeek": 8333,
+    "timeWeek": 7962,
     "timeMonth": 8530,
     "timeYear": 9155,
     "dailyMinutesDown": {}
@@ -1741,7 +1741,7 @@
     "time": 9684,
     "timeDay": 7691,
     "timeWeek": 8216,
-    "timeMonth": 7261,
+    "timeMonth": 7263,
     "timeYear": 9684,
     "dailyMinutesDown": {}
   },
@@ -1948,17 +1948,17 @@
     "url": "https://cloud.tymly.in/status/1140",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9261,
-    "timeDay": 12216,
-    "timeWeek": 9675,
-    "timeMonth": 8846,
-    "timeYear": 9261,
+    "time": 9268,
+    "timeDay": 11932,
+    "timeWeek": 9680,
+    "timeMonth": 8857,
+    "timeYear": 9268,
     "dailyMinutesDown": {}
   }
 ]
