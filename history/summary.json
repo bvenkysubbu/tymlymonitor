@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6483,
     "timeDay": 1038,
-    "timeWeek": 4692,
+    "timeWeek": 4598,
     "timeMonth": 7206,
     "timeYear": 6483,
     "dailyMinutesDown": {}
@@ -301,7 +301,7 @@
     "time": 5781,
     "timeDay": 2158,
     "timeWeek": 4129,
-    "timeMonth": 4855,
+    "timeMonth": 4693,
     "timeYear": 5781,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 2565,
     "timeDay": 5781,
     "timeWeek": 3527,
-    "timeMonth": 4882,
+    "timeMonth": 4603,
     "timeYear": 2565,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 3461,
     "timeDay": 8658,
     "timeWeek": 6457,
-    "timeMonth": 5132,
+    "timeMonth": 5212,
     "timeYear": 3461,
     "dailyMinutesDown": {}
   },
@@ -517,7 +517,7 @@
     "time": 7874,
     "timeDay": 9593,
     "timeWeek": 9877,
-    "timeMonth": 7983,
+    "timeMonth": 7982,
     "timeYear": 7874,
     "dailyMinutesDown": {}
   },
@@ -931,7 +931,7 @@
     "time": 5494,
     "timeDay": 3129,
     "timeWeek": 5170,
-    "timeMonth": 6116,
+    "timeMonth": 6303,
     "timeYear": 5494,
     "dailyMinutesDown": {}
   },
@@ -1084,17 +1084,17 @@
     "url": "https://cloud.tymly.in/status/1086",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "mahaveer-varna-b3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6218,
-    "timeDay": 10563,
-    "timeWeek": 6876,
-    "timeMonth": 6582,
-    "timeYear": 6218,
+    "time": 6268,
+    "timeDay": 11638,
+    "timeWeek": 7154,
+    "timeMonth": 6688,
+    "timeYear": 6268,
     "dailyMinutesDown": {}
   },
   {
@@ -1722,7 +1722,7 @@
     "uptimeYear": "100.00%",
     "time": 6042,
     "timeDay": 2696,
-    "timeWeek": 6710,
+    "timeWeek": 6975,
     "timeMonth": 6976,
     "timeYear": 6042,
     "dailyMinutesDown": {}
@@ -1740,7 +1740,7 @@
     "uptimeYear": "100.00%",
     "time": 9722,
     "timeDay": 9720,
-    "timeWeek": 8958,
+    "timeWeek": 9123,
     "timeMonth": 7557,
     "timeYear": 9722,
     "dailyMinutesDown": {}
