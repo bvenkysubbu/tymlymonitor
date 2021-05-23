@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6483,
     "timeDay": 1038,
-    "timeWeek": 3995,
+    "timeWeek": 3334,
     "timeMonth": 7206,
     "timeYear": 6483,
     "dailyMinutesDown": {}
@@ -85,7 +85,7 @@
     "time": 5944,
     "timeDay": 3353,
     "timeWeek": 4148,
-    "timeMonth": 5945,
+    "timeMonth": 6085,
     "timeYear": 5944,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 3920,
     "timeDay": 2742,
     "timeWeek": 4162,
-    "timeMonth": 4109,
+    "timeMonth": 4280,
     "timeYear": 3920,
     "dailyMinutesDown": {}
   },
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 6806,
     "timeDay": 7539,
-    "timeWeek": 8850,
+    "timeWeek": 8500,
     "timeMonth": 6973,
     "timeYear": 6806,
     "dailyMinutesDown": {}
@@ -265,7 +265,7 @@
     "time": 4649,
     "timeDay": 4476,
     "timeWeek": 5569,
-    "timeMonth": 5968,
+    "timeMonth": 6206,
     "timeYear": 4649,
     "dailyMinutesDown": {}
   },
@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 5781,
     "timeDay": 2158,
-    "timeWeek": 4129,
+    "timeWeek": 4232,
     "timeMonth": 4696,
     "timeYear": 5781,
     "dailyMinutesDown": {}
@@ -354,7 +354,7 @@
     "uptimeYear": "100.00%",
     "time": 2565,
     "timeDay": 5781,
-    "timeWeek": 3527,
+    "timeWeek": 3858,
     "timeMonth": 4603,
     "timeYear": 2565,
     "dailyMinutesDown": {}
@@ -516,8 +516,8 @@
     "uptimeYear": "100.00%",
     "time": 7874,
     "timeDay": 9593,
-    "timeWeek": 9877,
-    "timeMonth": 7982,
+    "timeWeek": 9732,
+    "timeMonth": 7952,
     "timeYear": 7874,
     "dailyMinutesDown": {}
   },
@@ -606,7 +606,7 @@
     "uptimeYear": "100.00%",
     "time": 4886,
     "timeDay": 10261,
-    "timeWeek": 6807,
+    "timeWeek": 6061,
     "timeMonth": 5879,
     "timeYear": 4886,
     "dailyMinutesDown": {}
@@ -660,7 +660,7 @@
     "uptimeYear": "100.00%",
     "time": 5010,
     "timeDay": 2622,
-    "timeWeek": 6473,
+    "timeWeek": 5944,
     "timeMonth": 6114,
     "timeYear": 5010,
     "dailyMinutesDown": {}
@@ -931,7 +931,7 @@
     "time": 5494,
     "timeDay": 3129,
     "timeWeek": 5170,
-    "timeMonth": 6303,
+    "timeMonth": 6302,
     "timeYear": 5494,
     "dailyMinutesDown": {}
   },
@@ -1093,7 +1093,7 @@
     "time": 6258,
     "timeDay": 11548,
     "timeWeek": 7080,
-    "timeMonth": 6664,
+    "timeMonth": 6559,
     "timeYear": 6258,
     "dailyMinutesDown": {}
   },
@@ -1183,7 +1183,7 @@
     "time": 4400,
     "timeDay": 2783,
     "timeWeek": 4328,
-    "timeMonth": 5669,
+    "timeMonth": 5752,
     "timeYear": 4400,
     "dailyMinutesDown": {}
   },
@@ -1201,7 +1201,7 @@
     "time": 3870,
     "timeDay": 2874,
     "timeWeek": 5175,
-    "timeMonth": 4590,
+    "timeMonth": 4646,
     "timeYear": 3870,
     "dailyMinutesDown": {}
   },
@@ -1740,7 +1740,7 @@
     "uptimeYear": "100.00%",
     "time": 9722,
     "timeDay": 9720,
-    "timeWeek": 9123,
+    "timeWeek": 9370,
     "timeMonth": 7585,
     "timeYear": 9722,
     "dailyMinutesDown": {}
@@ -1750,17 +1750,17 @@
     "url": "https://cloud.tymly.in/status/1129",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-a-block",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5604,
-    "timeDay": 1914,
-    "timeWeek": 5438,
-    "timeMonth": 6830,
-    "timeYear": 5604,
+    "time": 5574,
+    "timeDay": 1494,
+    "timeWeek": 5149,
+    "timeMonth": 6753,
+    "timeYear": 5574,
     "dailyMinutesDown": {}
   },
   {
@@ -1867,7 +1867,7 @@
     "time": 3078,
     "timeDay": 226,
     "timeWeek": 1109,
-    "timeMonth": 2686,
+    "timeMonth": 2751,
     "timeYear": 3078,
     "dailyMinutesDown": {}
   },
@@ -1884,7 +1884,7 @@
     "uptimeYear": "100.00%",
     "time": 3933,
     "timeDay": 230,
-    "timeWeek": 1593,
+    "timeWeek": 1603,
     "timeMonth": 3626,
     "timeYear": 3933,
     "dailyMinutesDown": {}
@@ -1939,7 +1939,7 @@
     "time": 5461,
     "timeDay": 2832,
     "timeWeek": 5883,
-    "timeMonth": 5525,
+    "timeMonth": 5682,
     "timeYear": 5461,
     "dailyMinutesDown": {}
   },
