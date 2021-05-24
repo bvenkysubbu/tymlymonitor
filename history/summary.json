@@ -13,7 +13,7 @@
     "time": 6459,
     "timeDay": 1469,
     "timeWeek": 3212,
-    "timeMonth": 7127,
+    "timeMonth": 6991,
     "timeYear": 6459,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 3491,
     "timeDay": 4626,
     "timeWeek": 3614,
-    "timeMonth": 3742,
+    "timeMonth": 3875,
     "timeYear": 3491,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 5921,
     "timeDay": 3394,
     "timeWeek": 4150,
-    "timeMonth": 5908,
+    "timeMonth": 5563,
     "timeYear": 5921,
     "dailyMinutesDown": {}
   },
@@ -202,17 +202,17 @@
     "url": "https://cloud.tymly.in/status/1018",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sbb-touchstone-reborn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3911,
-    "timeDay": 2924,
-    "timeWeek": 3965,
-    "timeMonth": 4379,
-    "timeYear": 3911,
+    "time": 3877,
+    "timeDay": 1577,
+    "timeWeek": 3498,
+    "timeMonth": 4105,
+    "timeYear": 3877,
     "dailyMinutesDown": {}
   },
   {
@@ -265,7 +265,7 @@
     "time": 4637,
     "timeDay": 2874,
     "timeWeek": 6177,
-    "timeMonth": 5610,
+    "timeMonth": 5313,
     "timeYear": 4637,
     "dailyMinutesDown": {}
   },
@@ -371,7 +371,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2423,
-    "timeDay": 2981,
+    "timeDay": 4132,
     "timeWeek": 2731,
     "timeMonth": 3762,
     "timeYear": 2423,
@@ -517,7 +517,7 @@
     "time": 7877,
     "timeDay": 8096,
     "timeWeek": 9697,
-    "timeMonth": 7885,
+    "timeMonth": 7838,
     "timeYear": 7877,
     "dailyMinutesDown": {}
   },
@@ -785,8 +785,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 9463,
-    "timeDay": 10131,
-    "timeWeek": 11221,
+    "timeDay": 9570,
+    "timeWeek": 11338,
     "timeMonth": 9765,
     "timeYear": 9463,
     "dailyMinutesDown": {}
@@ -1092,7 +1092,7 @@
     "uptimeYear": "100.00%",
     "time": 6329,
     "timeDay": 10813,
-    "timeWeek": 7720,
+    "timeWeek": 7883,
     "timeMonth": 6807,
     "timeYear": 6329,
     "dailyMinutesDown": {}
@@ -1111,7 +1111,7 @@
     "time": 4577,
     "timeDay": 3575,
     "timeWeek": 5333,
-    "timeMonth": 5108,
+    "timeMonth": 4939,
     "timeYear": 4577,
     "dailyMinutesDown": {}
   },
@@ -1147,7 +1147,7 @@
     "time": 12782,
     "timeDay": 13118,
     "timeWeek": 12835,
-    "timeMonth": 13803,
+    "timeMonth": 13791,
     "timeYear": 12782,
     "dailyMinutesDown": {}
   },
@@ -1740,7 +1740,7 @@
     "uptimeYear": "100.00%",
     "time": 9722,
     "timeDay": 9637,
-    "timeWeek": 9054,
+    "timeWeek": 9256,
     "timeMonth": 7711,
     "timeYear": 9722,
     "dailyMinutesDown": {}
@@ -1777,7 +1777,7 @@
     "time": 5619,
     "timeDay": 2318,
     "timeWeek": 4773,
-    "timeMonth": 5768,
+    "timeMonth": 5662,
     "timeYear": 5619,
     "dailyMinutesDown": {}
   },
@@ -1867,7 +1867,7 @@
     "time": 3053,
     "timeDay": 231,
     "timeWeek": 1110,
-    "timeMonth": 2685,
+    "timeMonth": 2752,
     "timeYear": 3053,
     "dailyMinutesDown": {}
   },
@@ -1956,8 +1956,8 @@
     "uptimeYear": "100.00%",
     "time": 8912,
     "timeDay": 2696,
-    "timeWeek": 9008,
-    "timeMonth": 8478,
+    "timeWeek": 9180,
+    "timeMonth": 8364,
     "timeYear": 8912,
     "dailyMinutesDown": {}
   }
