@@ -607,7 +607,7 @@
     "time": 4882,
     "timeDay": 4358,
     "timeWeek": 5650,
-    "timeMonth": 5467,
+    "timeMonth": 5455,
     "timeYear": 4882,
     "dailyMinutesDown": {}
   },
@@ -643,7 +643,7 @@
     "time": 5456,
     "timeDay": 232,
     "timeWeek": 2984,
-    "timeMonth": 5875,
+    "timeMonth": 5900,
     "timeYear": 5456,
     "dailyMinutesDown": {}
   },
@@ -760,17 +760,17 @@
     "url": "https://cloud.tymly.in/status/1058",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "prakruthi-villas-sarjapura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5713,
-    "timeDay": 3058,
-    "timeWeek": 3826,
-    "timeMonth": 6606,
-    "timeYear": 5713,
+    "time": 5692,
+    "timeDay": 2117,
+    "timeWeek": 3729,
+    "timeMonth": 6566,
+    "timeYear": 5692,
     "dailyMinutesDown": {}
   },
   {
@@ -1957,7 +1957,7 @@
     "time": 8980,
     "timeDay": 6054,
     "timeWeek": 9318,
-    "timeMonth": 8370,
+    "timeMonth": 8289,
     "timeYear": 8980,
     "dailyMinutesDown": {}
   }
