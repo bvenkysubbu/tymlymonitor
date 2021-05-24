@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6459,
     "timeDay": 1469,
-    "timeWeek": 3115,
+    "timeWeek": 2933,
     "timeMonth": 6991,
     "timeYear": 6459,
     "dailyMinutesDown": {}
@@ -517,7 +517,7 @@
     "time": 7877,
     "timeDay": 8096,
     "timeWeek": 9697,
-    "timeMonth": 7785,
+    "timeMonth": 7789,
     "timeYear": 7877,
     "dailyMinutesDown": {}
   },
@@ -607,7 +607,7 @@
     "time": 4882,
     "timeDay": 4358,
     "timeWeek": 5650,
-    "timeMonth": 5687,
+    "timeMonth": 5467,
     "timeYear": 4882,
     "dailyMinutesDown": {}
   },
@@ -643,7 +643,7 @@
     "time": 5456,
     "timeDay": 232,
     "timeWeek": 2984,
-    "timeMonth": 5955,
+    "timeMonth": 5875,
     "timeYear": 5456,
     "dailyMinutesDown": {}
   },
@@ -1091,7 +1091,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6329,
-    "timeDay": 9242,
+    "timeDay": 10385,
     "timeWeek": 7883,
     "timeMonth": 6807,
     "timeYear": 6329,
@@ -1885,7 +1885,7 @@
     "time": 3898,
     "timeDay": 230,
     "timeWeek": 1128,
-    "timeMonth": 3569,
+    "timeMonth": 3626,
     "timeYear": 3898,
     "dailyMinutesDown": {}
   },
@@ -1948,17 +1948,17 @@
     "url": "https://cloud.tymly.in/status/1140",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8924,
-    "timeDay": 3965,
-    "timeWeek": 9202,
-    "timeMonth": 8408,
-    "timeYear": 8924,
+    "time": 9019,
+    "timeDay": 6291,
+    "timeWeek": 9411,
+    "timeMonth": 8522,
+    "timeYear": 9019,
     "dailyMinutesDown": {}
   }
 ]
