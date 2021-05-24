@@ -229,7 +229,7 @@
     "time": 6819,
     "timeDay": 7685,
     "timeWeek": 7945,
-    "timeMonth": 7070,
+    "timeMonth": 7090,
     "timeYear": 6819,
     "dailyMinutesDown": {}
   },
@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 5767,
     "timeDay": 4215,
-    "timeWeek": 4524,
+    "timeWeek": 4575,
     "timeMonth": 4681,
     "timeYear": 5767,
     "dailyMinutesDown": {}
@@ -625,7 +625,7 @@
     "time": 6358,
     "timeDay": 6607,
     "timeWeek": 5257,
-    "timeMonth": 6419,
+    "timeMonth": 6474,
     "timeYear": 6358,
     "dailyMinutesDown": {}
   },
@@ -714,7 +714,7 @@
     "uptimeYear": "100.00%",
     "time": 4461,
     "timeDay": 9203,
-    "timeWeek": 6521,
+    "timeWeek": 6784,
     "timeMonth": 5400,
     "timeYear": 4461,
     "dailyMinutesDown": {}
@@ -769,7 +769,7 @@
     "time": 5713,
     "timeDay": 3058,
     "timeWeek": 4269,
-    "timeMonth": 6606,
+    "timeMonth": 6645,
     "timeYear": 5713,
     "dailyMinutesDown": {}
   },
@@ -805,7 +805,7 @@
     "time": 6039,
     "timeDay": 4952,
     "timeWeek": 5770,
-    "timeMonth": 7045,
+    "timeMonth": 6755,
     "timeYear": 6039,
     "dailyMinutesDown": {}
   },
@@ -877,7 +877,7 @@
     "time": 6195,
     "timeDay": 8338,
     "timeWeek": 6249,
-    "timeMonth": 7432,
+    "timeMonth": 7223,
     "timeYear": 6195,
     "dailyMinutesDown": {}
   },
@@ -931,7 +931,7 @@
     "time": 5488,
     "timeDay": 4657,
     "timeWeek": 5174,
-    "timeMonth": 5724,
+    "timeMonth": 5357,
     "timeYear": 5488,
     "dailyMinutesDown": {}
   },
@@ -1109,9 +1109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4591,
-    "timeDay": 4215,
+    "timeDay": 6206,
     "timeWeek": 5642,
-    "timeMonth": 5161,
+    "timeMonth": 5163,
     "timeYear": 4591,
     "dailyMinutesDown": {}
   },
@@ -1129,7 +1129,7 @@
     "time": 8751,
     "timeDay": 10104,
     "timeWeek": 10779,
-    "timeMonth": 9093,
+    "timeMonth": 9152,
     "timeYear": 8751,
     "dailyMinutesDown": {}
   },
@@ -1147,7 +1147,7 @@
     "time": 12782,
     "timeDay": 13118,
     "timeWeek": 12835,
-    "timeMonth": 13854,
+    "timeMonth": 13804,
     "timeYear": 12782,
     "dailyMinutesDown": {}
   },
@@ -1948,17 +1948,17 @@
     "url": "https://cloud.tymly.in/status/1140",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9003,
-    "timeDay": 1601,
-    "timeWeek": 9222,
-    "timeMonth": 8573,
-    "timeYear": 9003,
+    "time": 8987,
+    "timeDay": 2696,
+    "timeWeek": 9180,
+    "timeMonth": 8558,
+    "timeYear": 8987,
     "dailyMinutesDown": {}
   }
 ]
