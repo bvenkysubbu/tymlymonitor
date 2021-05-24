@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6459,
     "timeDay": 1469,
-    "timeWeek": 2949,
+    "timeWeek": 2569,
     "timeMonth": 6991,
     "timeYear": 6459,
     "dailyMinutesDown": {}
@@ -769,7 +769,7 @@
     "time": 5692,
     "timeDay": 2117,
     "timeWeek": 3729,
-    "timeMonth": 6566,
+    "timeMonth": 6561,
     "timeYear": 5692,
     "dailyMinutesDown": {}
   },
@@ -1948,17 +1948,17 @@
     "url": "https://cloud.tymly.in/status/1140",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8980,
-    "timeDay": 6054,
-    "timeWeek": 9318,
-    "timeMonth": 8289,
-    "timeYear": 8980,
+    "time": 9073,
+    "timeDay": 7629,
+    "timeWeek": 9516,
+    "timeMonth": 8499,
+    "timeYear": 9073,
     "dailyMinutesDown": {}
   }
 ]
