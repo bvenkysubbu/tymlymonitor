@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 2382,
     "timeDay": 1603,
-    "timeWeek": 1851,
+    "timeWeek": 1800,
     "timeMonth": 2413,
     "timeYear": 2382,
     "dailyMinutesDown": {}
@@ -193,7 +193,7 @@
     "time": 3219,
     "timeDay": 241,
     "timeWeek": 235,
-    "timeMonth": 3395,
+    "timeMonth": 3402,
     "timeYear": 3219,
     "dailyMinutesDown": {}
   },
@@ -391,7 +391,7 @@
     "time": 6928,
     "timeDay": 241,
     "timeWeek": 416,
-    "timeMonth": 7122,
+    "timeMonth": 7198,
     "timeYear": 6928,
     "dailyMinutesDown": {}
   },
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 7918,
     "timeDay": 3237,
-    "timeWeek": 9206,
+    "timeWeek": 8864,
     "timeMonth": 8429,
     "timeYear": 7918,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 2412,
     "timeDay": 2910,
-    "timeWeek": 1893,
+    "timeWeek": 1831,
     "timeMonth": 2311,
     "timeYear": 2412,
     "dailyMinutesDown": {}
@@ -768,7 +768,7 @@
     "uptimeYear": "100.00%",
     "time": 5539,
     "timeDay": 3729,
-    "timeWeek": 2812,
+    "timeWeek": 2889,
     "timeMonth": 6054,
     "timeYear": 5539,
     "dailyMinutesDown": {}
@@ -786,7 +786,7 @@
     "uptimeYear": "100.00%",
     "time": 9428,
     "timeDay": 3005,
-    "timeWeek": 9819,
+    "timeWeek": 9918,
     "timeMonth": 9742,
     "timeYear": 9428,
     "dailyMinutesDown": {}
@@ -930,7 +930,7 @@
     "uptimeYear": "100.00%",
     "time": 5430,
     "timeDay": 2834,
-    "timeWeek": 3942,
+    "timeWeek": 4406,
     "timeMonth": 4901,
     "timeYear": 5430,
     "dailyMinutesDown": {}
@@ -1084,17 +1084,17 @@
     "url": "https://cloud.tymly.in/status/1086",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "mahaveer-varna-b3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6314,
-    "timeDay": 2722,
-    "timeWeek": 8412,
-    "timeMonth": 6843,
-    "timeYear": 6314,
+    "time": 6295,
+    "timeDay": 1476,
+    "timeWeek": 8156,
+    "timeMonth": 6793,
+    "timeYear": 6295,
     "dailyMinutesDown": {}
   },
   {
@@ -1102,17 +1102,17 @@
     "url": "https://cloud.tymly.in/status/1090",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sumadhura-silver-ripples-club-house",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4500,
-    "timeDay": 238,
-    "timeWeek": 3532,
-    "timeMonth": 4602,
-    "timeYear": 4500,
+    "time": 4492,
+    "timeDay": 1103,
+    "timeWeek": 3496,
+    "timeMonth": 4575,
+    "timeYear": 4492,
     "dailyMinutesDown": {}
   },
   {
@@ -1147,7 +1147,7 @@
     "time": 12661,
     "timeDay": 12617,
     "timeWeek": 11081,
-    "timeMonth": 13540,
+    "timeMonth": 13625,
     "timeYear": 12661,
     "dailyMinutesDown": {}
   },
@@ -1164,7 +1164,7 @@
     "uptimeYear": "100.00%",
     "time": 4007,
     "timeDay": 1053,
-    "timeWeek": 3124,
+    "timeWeek": 3144,
     "timeMonth": 3894,
     "timeYear": 4007,
     "dailyMinutesDown": {}
@@ -1740,7 +1740,7 @@
     "uptimeYear": "100.00%",
     "time": 9399,
     "timeDay": 2671,
-    "timeWeek": 5879,
+    "timeWeek": 5985,
     "timeMonth": 7128,
     "timeYear": 9399,
     "dailyMinutesDown": {}
@@ -1758,7 +1758,7 @@
     "uptimeYear": "100.00%",
     "time": 5437,
     "timeDay": 4449,
-    "timeWeek": 2555,
+    "timeWeek": 2749,
     "timeMonth": 6008,
     "timeYear": 5437,
     "dailyMinutesDown": {}
@@ -1921,7 +1921,7 @@
     "time": 4539,
     "timeDay": 1874,
     "timeWeek": 1835,
-    "timeMonth": 2923,
+    "timeMonth": 2652,
     "timeYear": 4539,
     "dailyMinutesDown": {}
   },
@@ -1956,7 +1956,7 @@
     "uptimeYear": "100.00%",
     "time": 8964,
     "timeDay": 7392,
-    "timeWeek": 8933,
+    "timeWeek": 8803,
     "timeMonth": 8428,
     "timeYear": 8964,
     "dailyMinutesDown": {}
