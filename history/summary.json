@@ -76,17 +76,17 @@
     "url": "https://cloud.tymly.in/status/1010",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-value",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5562,
-    "timeDay": 2680,
-    "timeWeek": 3458,
-    "timeMonth": 4360,
-    "timeYear": 5562,
+    "time": 5676,
+    "timeDay": 8922,
+    "timeWeek": 4954,
+    "timeMonth": 4766,
+    "timeYear": 5676,
     "dailyMinutesDown": {}
   },
   {
@@ -301,7 +301,7 @@
     "time": 5344,
     "timeDay": 3037,
     "timeWeek": 3635,
-    "timeMonth": 3856,
+    "timeMonth": 3728,
     "timeYear": 5344,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 2924,
     "timeDay": 11840,
     "timeWeek": 5733,
-    "timeMonth": 5028,
+    "timeMonth": 4736,
     "timeYear": 2924,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 2426,
     "timeDay": 1578,
     "timeWeek": 2093,
-    "timeMonth": 2460,
+    "timeMonth": 2463,
     "timeYear": 2426,
     "dailyMinutesDown": {}
   },
@@ -769,7 +769,7 @@
     "time": 5340,
     "timeDay": 2497,
     "timeWeek": 3890,
-    "timeMonth": 3846,
+    "timeMonth": 3839,
     "timeYear": 5340,
     "dailyMinutesDown": {}
   },
@@ -1039,7 +1039,7 @@
     "time": 4252,
     "timeDay": 2787,
     "timeWeek": 4377,
-    "timeMonth": 4138,
+    "timeMonth": 4072,
     "timeYear": 4252,
     "dailyMinutesDown": {}
   },
@@ -1075,7 +1075,7 @@
     "time": 5792,
     "timeDay": 2873,
     "timeWeek": 6802,
-    "timeMonth": 5980,
+    "timeMonth": 5730,
     "timeYear": 5792,
     "dailyMinutesDown": {}
   },
@@ -1093,7 +1093,7 @@
     "time": 6128,
     "timeDay": 2020,
     "timeWeek": 4955,
-    "timeMonth": 5902,
+    "timeMonth": 5955,
     "timeYear": 6128,
     "dailyMinutesDown": {}
   },
@@ -1165,7 +1165,7 @@
     "time": 3865,
     "timeDay": 2778,
     "timeWeek": 4111,
-    "timeMonth": 3411,
+    "timeMonth": 3139,
     "timeYear": 3865,
     "dailyMinutesDown": {}
   },
@@ -1183,7 +1183,7 @@
     "time": 4514,
     "timeDay": 10524,
     "timeWeek": 6225,
-    "timeMonth": 4632,
+    "timeMonth": 4720,
     "timeYear": 4514,
     "dailyMinutesDown": {}
   },
@@ -1201,7 +1201,7 @@
     "time": 3922,
     "timeDay": 9038,
     "timeWeek": 5087,
-    "timeMonth": 4122,
+    "timeMonth": 4199,
     "timeYear": 3922,
     "dailyMinutesDown": {}
   },
@@ -1723,7 +1723,7 @@
     "time": 5650,
     "timeDay": 2809,
     "timeWeek": 5494,
-    "timeMonth": 5594,
+    "timeMonth": 5368,
     "timeYear": 5650,
     "dailyMinutesDown": {}
   },
@@ -1741,7 +1741,7 @@
     "time": 9279,
     "timeDay": 3201,
     "timeWeek": 5459,
-    "timeMonth": 7416,
+    "timeMonth": 7330,
     "timeYear": 9279,
     "dailyMinutesDown": {}
   },
@@ -1775,7 +1775,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5440,
-    "timeDay": 3583,
+    "timeDay": 4419,
     "timeWeek": 4941,
     "timeMonth": 4694,
     "timeYear": 5440,
@@ -1903,7 +1903,7 @@
     "time": 6591,
     "timeDay": 4509,
     "timeWeek": 4898,
-    "timeMonth": 6282,
+    "timeMonth": 6338,
     "timeYear": 6591,
     "dailyMinutesDown": {}
   },
@@ -1939,7 +1939,7 @@
     "time": 5086,
     "timeDay": 3000,
     "timeWeek": 5011,
-    "timeMonth": 4248,
+    "timeMonth": 4364,
     "timeYear": 5086,
     "dailyMinutesDown": {}
   },
