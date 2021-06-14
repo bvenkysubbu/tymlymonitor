@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "88.20%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "87.61%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.87%",
     "time": 6102,
     "timeDay": 11245,
     "timeWeek": 5596,
     "timeMonth": 4667,
     "timeYear": 6102,
     "dailyMinutesDown": {
-      "2021-06-14": 170
+      "2021-06-14": 178
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "casa-gopalan-block-b-lift",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "92.02%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.91%",
     "time": 4286,
     "timeDay": 4430,
     "timeWeek": 6768,
     "timeMonth": 5093,
     "timeYear": 4286,
     "dailyMinutesDown": {
-      "2021-06-14": 115
+      "2021-06-14": 123
     }
   },
   {
@@ -120,9 +120,9 @@
     "slug": "sterling-shalom-d-block",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "91.55%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
     "time": 4148,
     "timeDay": 3104,
@@ -130,7 +130,7 @@
     "timeMonth": 4162,
     "timeYear": 4148,
     "dailyMinutesDown": {
-      "2021-06-14": 122
+      "2021-06-14": 130
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade-security",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "88.23%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "87.65%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.87%",
     "time": 3671,
     "timeDay": 5401,
     "timeWeek": 7285,
     "timeMonth": 3991,
     "timeYear": 3671,
     "dailyMinutesDown": {
-      "2021-06-14": 169
+      "2021-06-14": 178
     }
   },
   {
@@ -805,7 +805,7 @@
     "time": 9482,
     "timeDay": 12324,
     "timeWeek": 10429,
-    "timeMonth": 10033,
+    "timeMonth": 10074,
     "timeYear": 9482,
     "dailyMinutesDown": {
       "2021-06-14": 121
@@ -1035,18 +1035,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sai-gardens-temple-side",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 3006,
     "timeDay": 12501,
     "timeWeek": 6024,
     "timeMonth": 3701,
     "timeYear": 3006,
     "dailyMinutesDown": {
-      "2021-06-14": 20
+      "2021-06-14": 29
     }
   },
   {
@@ -1155,7 +1155,7 @@
     "time": 8910,
     "timeDay": 213,
     "timeWeek": 9829,
-    "timeMonth": 9521,
+    "timeMonth": 9645,
     "timeYear": 8910,
     "dailyMinutesDown": {}
   },
@@ -1796,9 +1796,9 @@
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "59.29%",
-    "uptimeWeek": "94.18%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "58.71%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.57%",
     "time": 5393,
     "timeDay": 5344,
@@ -1806,7 +1806,7 @@
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 586
+      "2021-06-14": 595
     }
   },
   {
@@ -1976,19 +1976,19 @@
     "url": "https://cloud.tymly.in/status/1140",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 8693,
-    "timeDay": 12407,
-    "timeWeek": 7033,
-    "timeMonth": 8578,
-    "timeYear": 8693,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 8712,
+    "timeDay": 12446,
+    "timeWeek": 7244,
+    "timeMonth": 8604,
+    "timeYear": 8712,
     "dailyMinutesDown": {
-      "2021-06-14": 1
+      "2021-06-14": 8
     }
   }
 ]
