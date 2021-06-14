@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 6102,
     "timeDay": 11245,
     "timeWeek": 5596,
     "timeMonth": 4667,
     "timeYear": 6102,
     "dailyMinutesDown": {
-      "2021-06-14": 29
+      "2021-06-14": 45
     }
   },
   {
@@ -189,18 +189,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade-security",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 3671,
     "timeDay": 5401,
     "timeWeek": 7285,
     "timeMonth": 3991,
     "timeYear": 3671,
     "dailyMinutesDown": {
-      "2021-06-14": 28
+      "2021-06-14": 44
     }
   },
   {
@@ -1194,36 +1194,40 @@
     "url": "https://cloud.tymly.in/status/1096",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "white-breeze-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4478,
-    "timeDay": 4331,
-    "timeWeek": 5728,
-    "timeMonth": 4832,
-    "timeYear": 4478,
-    "dailyMinutesDown": {}
+    "time": 4548,
+    "timeDay": 12287,
+    "timeWeek": 6454,
+    "timeMonth": 5059,
+    "timeYear": 4548,
+    "dailyMinutesDown": {
+      "2021-06-14": 3
+    }
   },
   {
     "name": "White Breeze 2",
     "url": "https://cloud.tymly.in/status/1097",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "white-breeze-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4088,
-    "timeDay": 4415,
-    "timeWeek": 6651,
-    "timeMonth": 4893,
-    "timeYear": 4088,
-    "dailyMinutesDown": {}
+    "time": 4175,
+    "timeDay": 13176,
+    "timeWeek": 7415,
+    "timeMonth": 5160,
+    "timeYear": 4175,
+    "dailyMinutesDown": {
+      "2021-06-14": 2
+    }
   },
   {
     "name": "Sowparnika Swastika 2",
@@ -1789,18 +1793,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "69.09%",
-    "uptimeWeek": "95.58%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.67%",
+    "uptimeDay": "67.98%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.67%",
     "time": 5393,
     "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 445
+      "2021-06-14": 461
     }
   },
   {
