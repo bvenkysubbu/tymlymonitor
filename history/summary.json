@@ -370,17 +370,17 @@
     "url": "https://cloud.tymly.in/status/1027",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "dsr-sunrise-towers-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2556,
-    "timeDay": 12222,
-    "timeWeek": 2991,
-    "timeMonth": 2801,
-    "timeYear": 2556,
+    "time": 2558,
+    "timeDay": 9117,
+    "timeWeek": 2987,
+    "timeMonth": 2803,
+    "timeYear": 2558,
     "dailyMinutesDown": {}
   },
   {
@@ -525,7 +525,7 @@
     "time": 7764,
     "timeDay": 8173,
     "timeWeek": 6228,
-    "timeMonth": 8028,
+    "timeMonth": 8031,
     "timeYear": 7764,
     "dailyMinutesDown": {
       "2021-06-14": 132
@@ -788,19 +788,19 @@
     "url": "https://cloud.tymly.in/status/1059",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "psr-aster-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "91.61%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
-    "time": 9474,
-    "timeDay": 12054,
-    "timeWeek": 9936,
-    "timeMonth": 10054,
-    "timeYear": 9474,
+    "time": 9489,
+    "timeDay": 14524,
+    "timeWeek": 10323,
+    "timeMonth": 10074,
+    "timeYear": 9489,
     "dailyMinutesDown": {
-      "2021-06-14": 121
+      "2021-06-14": 124
     }
   },
   {
@@ -853,7 +853,7 @@
     "time": 5326,
     "timeDay": 2722,
     "timeWeek": 5444,
-    "timeMonth": 6056,
+    "timeMonth": 5776,
     "timeYear": 5326,
     "dailyMinutesDown": {}
   },
@@ -1785,18 +1785,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "83.62%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.79%",
+    "uptimeDay": "79.54%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.79%",
     "time": 5393,
     "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 236
+      "2021-06-14": 295
     }
   },
   {
