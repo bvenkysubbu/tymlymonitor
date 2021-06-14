@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "89.43%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "88.20%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.88%",
     "time": 6102,
     "timeDay": 11245,
     "timeWeek": 5596,
     "timeMonth": 4667,
     "timeYear": 6102,
     "dailyMinutesDown": {
-      "2021-06-14": 152
+      "2021-06-14": 170
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "casa-gopalan-block-b-lift",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
     "time": 4286,
     "timeDay": 4430,
     "timeWeek": 6768,
     "timeMonth": 5093,
     "timeYear": 4286,
     "dailyMinutesDown": {
-      "2021-06-14": 97
+      "2021-06-14": 115
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sterling-shalom-d-block",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.55%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.91%",
     "time": 4148,
     "timeDay": 3104,
     "timeWeek": 3971,
     "timeMonth": 4162,
     "timeYear": 4148,
     "dailyMinutesDown": {
-      "2021-06-14": 104
+      "2021-06-14": 122
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade-security",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.88%",
     "time": 3671,
     "timeDay": 5401,
     "timeWeek": 7285,
     "timeMonth": 3991,
     "timeYear": 3671,
     "dailyMinutesDown": {
-      "2021-06-14": 152
+      "2021-06-14": 169
     }
   },
   {
@@ -1035,18 +1035,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sai-gardens-temple-side",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 3006,
     "timeDay": 12501,
     "timeWeek": 6024,
     "timeMonth": 3701,
     "timeYear": 3006,
     "dailyMinutesDown": {
-      "2021-06-14": 3
+      "2021-06-14": 20
     }
   },
   {
@@ -1795,18 +1795,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "60.51%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "99.59%",
+    "uptime": "99.57%",
+    "uptimeDay": "59.29%",
+    "uptimeWeek": "94.18%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "99.57%",
     "time": 5393,
     "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 569
+      "2021-06-14": 586
     }
   },
   {
@@ -1976,17 +1976,19 @@
     "url": "https://cloud.tymly.in/status/1140",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8638,
-    "timeDay": 4573,
-    "timeWeek": 6483,
-    "timeMonth": 8499,
-    "timeYear": 8638,
-    "dailyMinutesDown": {}
+    "time": 8693,
+    "timeDay": 12407,
+    "timeWeek": 7033,
+    "timeMonth": 8578,
+    "timeYear": 8693,
+    "dailyMinutesDown": {
+      "2021-06-14": 1
+    }
   }
 ]
