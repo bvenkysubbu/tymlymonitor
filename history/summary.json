@@ -76,19 +76,19 @@
     "url": "https://cloud.tymly.in/status/1010",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-value",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 5879,
-    "timeDay": 14287,
-    "timeWeek": 7048,
-    "timeMonth": 5248,
-    "timeYear": 5879,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 5861,
+    "timeDay": 12082,
+    "timeWeek": 6825,
+    "timeMonth": 5204,
+    "timeYear": 5861,
     "dailyMinutesDown": {
-      "2021-06-14": 6
+      "2021-06-14": 34
     }
   },
   {
@@ -223,18 +223,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "united-elysium",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.91%",
     "time": 7038,
     "timeDay": 9410,
     "timeWeek": 9898,
     "timeMonth": 7942,
     "timeYear": 7038,
     "dailyMinutesDown": {
-      "2021-06-14": 91
+      "2021-06-14": 125
     }
   },
   {
@@ -516,19 +516,19 @@
     "url": "https://cloud.tymly.in/status/1039",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "92.87%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.93%",
-    "time": 7768,
-    "timeDay": 8236,
-    "timeWeek": 6281,
-    "timeMonth": 8218,
-    "timeYear": 7768,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.90%",
+    "time": 7764,
+    "timeDay": 7748,
+    "timeWeek": 6228,
+    "timeMonth": 8131,
+    "timeYear": 7764,
     "dailyMinutesDown": {
-      "2021-06-14": 103
+      "2021-06-14": 132
     }
   },
   {
@@ -797,7 +797,7 @@
     "time": 9458,
     "timeDay": 4199,
     "timeWeek": 9397,
-    "timeMonth": 9935,
+    "timeMonth": 9894,
     "timeYear": 9458,
     "dailyMinutesDown": {}
   },
@@ -1096,18 +1096,20 @@
     "url": "https://cloud.tymly.in/status/1086",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "mahaveer-varna-b3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 6194,
-    "timeDay": 10847,
-    "timeWeek": 5104,
-    "timeMonth": 6292,
-    "timeYear": 6194,
-    "dailyMinutesDown": {}
+    "time": 6234,
+    "timeDay": 12452,
+    "timeWeek": 5653,
+    "timeMonth": 6402,
+    "timeYear": 6234,
+    "dailyMinutesDown": {
+      "2021-06-14": 2
+    }
   },
   {
     "name": "Sumadhura Silver Ripples Club House",
@@ -1781,18 +1783,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 5393,
-    "timeDay": 4704,
+    "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4542,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 2
+      "2021-06-14": 36
     }
   },
   {
@@ -1809,7 +1811,7 @@
     "time": 3440,
     "timeDay": 5998,
     "timeWeek": 2384,
-    "timeMonth": 2258,
+    "timeMonth": 2223,
     "timeYear": 3440,
     "dailyMinutesDown": {}
   },
