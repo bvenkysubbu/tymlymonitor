@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 6102,
     "timeDay": 11245,
     "timeWeek": 5596,
     "timeMonth": 4667,
     "timeYear": 6102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 29
+    }
   },
   {
     "name": "Casa Gopalan Block B Lift",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4286,
-    "timeDay": 9097,
+    "timeDay": 4430,
     "timeWeek": 6768,
     "timeMonth": 5093,
     "timeYear": 4286,
@@ -187,17 +189,19 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade-security",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 3671,
     "timeDay": 5401,
     "timeWeek": 7285,
     "timeMonth": 3991,
     "timeYear": 3671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 28
+    }
   },
   {
     "name": "SBB Touchstone Reborn",
@@ -304,7 +308,7 @@
     "uptimeYear": "100.00%",
     "time": 5340,
     "timeDay": 2678,
-    "timeWeek": 4218,
+    "timeWeek": 4550,
     "timeMonth": 3676,
     "timeYear": 5340,
     "dailyMinutesDown": {}
@@ -378,7 +382,7 @@
     "uptimeYear": "100.00%",
     "time": 2558,
     "timeDay": 9117,
-    "timeWeek": 3118,
+    "timeWeek": 3131,
     "timeMonth": 2803,
     "timeYear": 2558,
     "dailyMinutesDown": {}
@@ -626,20 +630,18 @@
     "url": "https://cloud.tymly.in/status/1048",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "ruchira-lilium-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6182,
-    "timeDay": 18901,
-    "timeWeek": 7940,
-    "timeMonth": 5748,
-    "timeYear": 6182,
-    "dailyMinutesDown": {
-      "2021-06-14": 4
-    }
+    "time": 6164,
+    "timeDay": 13793,
+    "timeWeek": 7543,
+    "timeMonth": 5697,
+    "timeYear": 6164,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nitesh Flushing Meadows Block D",
@@ -655,7 +657,7 @@
     "time": 4733,
     "timeDay": 8060,
     "timeWeek": 2824,
-    "timeMonth": 1916,
+    "timeMonth": 1953,
     "timeYear": 4733,
     "dailyMinutesDown": {}
   },
@@ -745,7 +747,7 @@
     "time": 3995,
     "timeDay": 6327,
     "timeWeek": 4780,
-    "timeMonth": 2902,
+    "timeMonth": 2925,
     "timeYear": 3995,
     "dailyMinutesDown": {}
   },
@@ -799,7 +801,7 @@
     "time": 9482,
     "timeDay": 12324,
     "timeWeek": 10110,
-    "timeMonth": 10005,
+    "timeMonth": 10033,
     "timeYear": 9482,
     "dailyMinutesDown": {
       "2021-06-14": 121
@@ -964,7 +966,7 @@
     "uptimeYear": "100.00%",
     "time": 2801,
     "timeDay": 3488,
-    "timeWeek": 1325,
+    "timeWeek": 1382,
     "timeMonth": 1643,
     "timeYear": 2801,
     "dailyMinutesDown": {}
@@ -1174,20 +1176,18 @@
     "url": "https://cloud.tymly.in/status/1095",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "whitestone-landmark",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4037,
-    "timeDay": 8866,
-    "timeWeek": 5886,
-    "timeMonth": 3670,
-    "timeYear": 4037,
-    "dailyMinutesDown": {
-      "2021-06-14": 2
-    }
+    "time": 4030,
+    "timeDay": 7988,
+    "timeWeek": 5719,
+    "timeMonth": 3656,
+    "timeYear": 4030,
+    "dailyMinutesDown": {}
   },
   {
     "name": "White Breeze 1",
@@ -1743,7 +1743,7 @@
     "time": 5691,
     "timeDay": 8683,
     "timeWeek": 6605,
-    "timeMonth": 5289,
+    "timeMonth": 5337,
     "timeYear": 5691,
     "dailyMinutesDown": {}
   },
@@ -1761,7 +1761,7 @@
     "time": 9355,
     "timeDay": 12240,
     "timeWeek": 8241,
-    "timeMonth": 7705,
+    "timeMonth": 7745,
     "timeYear": 9355,
     "dailyMinutesDown": {}
   },
@@ -1789,18 +1789,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "71.12%",
-    "uptimeWeek": "95.87%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.68%",
+    "uptimeDay": "69.09%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.68%",
     "time": 5393,
     "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 416
+      "2021-06-14": 445
     }
   },
   {
