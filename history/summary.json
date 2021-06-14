@@ -788,19 +788,19 @@
     "url": "https://cloud.tymly.in/status/1059",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "psr-aster-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "91.41%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
-    "time": 9489,
-    "timeDay": 14524,
-    "timeWeek": 10323,
-    "timeMonth": 10074,
-    "timeYear": 9489,
+    "time": 9482,
+    "timeDay": 12324,
+    "timeWeek": 10110,
+    "timeMonth": 10047,
+    "timeYear": 9482,
     "dailyMinutesDown": {
-      "2021-06-14": 124
+      "2021-06-14": 130
     }
   },
   {
@@ -1785,18 +1785,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.78%",
+    "uptimeDay": "78.91%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.78%",
     "time": 5393,
     "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 295
+      "2021-06-14": 304
     }
   },
   {
