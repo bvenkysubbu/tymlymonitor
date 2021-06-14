@@ -76,18 +76,20 @@
     "url": "https://cloud.tymly.in/status/1010",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-value",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 5779,
-    "timeDay": 12301,
-    "timeWeek": 6168,
-    "timeMonth": 4900,
-    "timeYear": 5779,
-    "dailyMinutesDown": {}
+    "time": 5879,
+    "timeDay": 14287,
+    "timeWeek": 7048,
+    "timeMonth": 5248,
+    "timeYear": 5879,
+    "dailyMinutesDown": {
+      "2021-06-14": 6
+    }
   },
   {
     "name": "Sterling Shalom C Block",
@@ -221,18 +223,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "united-elysium",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.93%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.93%",
     "time": 7038,
-    "timeDay": 9980,
+    "timeDay": 9410,
     "timeWeek": 9898,
     "timeMonth": 7942,
     "timeYear": 7038,
     "dailyMinutesDown": {
-      "2021-06-14": 55
+      "2021-06-14": 91
     }
   },
   {
@@ -330,19 +332,19 @@
     "url": "https://cloud.tymly.in/status/1025",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "dsr-sunrise-towers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 2420,
-    "timeDay": 3005,
-    "timeWeek": 4304,
-    "timeMonth": 3712,
-    "timeYear": 2420,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 2442,
+    "timeDay": 3927,
+    "timeWeek": 4372,
+    "timeMonth": 3741,
+    "timeYear": 2442,
     "dailyMinutesDown": {
-      "2021-06-14": 5
+      "2021-06-14": 36
     }
   },
   {
@@ -515,18 +517,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.38%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.93%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.93%",
     "time": 7768,
     "timeDay": 8236,
     "timeWeek": 6281,
     "timeMonth": 8218,
     "timeYear": 7768,
     "dailyMinutesDown": {
-      "2021-06-14": 67
+      "2021-06-14": 103
     }
   },
   {
@@ -795,7 +797,7 @@
     "time": 9458,
     "timeDay": 4199,
     "timeWeek": 9397,
-    "timeMonth": 9933,
+    "timeMonth": 9935,
     "timeYear": 9458,
     "dailyMinutesDown": {}
   },
@@ -930,19 +932,19 @@
     "url": "https://cloud.tymly.in/status/1067",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "hinduja-park-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 5383,
-    "timeDay": 15036,
-    "timeWeek": 7082,
-    "timeMonth": 4772,
-    "timeYear": 5383,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 5379,
+    "timeDay": 11625,
+    "timeWeek": 6829,
+    "timeMonth": 4773,
+    "timeYear": 5379,
     "dailyMinutesDown": {
-      "2021-06-14": 2
+      "2021-06-14": 35
     }
   },
   {
@@ -1778,18 +1780,20 @@
     "url": "https://cloud.tymly.in/status/1130",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5410,
-    "timeDay": 5341,
-    "timeWeek": 4938,
-    "timeMonth": 4580,
-    "timeYear": 5410,
-    "dailyMinutesDown": {}
+    "time": 5393,
+    "timeDay": 4704,
+    "timeWeek": 4800,
+    "timeMonth": 4542,
+    "timeYear": 5393,
+    "dailyMinutesDown": {
+      "2021-06-14": 2
+    }
   },
   {
     "name": "VBHC Serene Town D Block",
