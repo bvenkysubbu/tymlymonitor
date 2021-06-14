@@ -378,7 +378,7 @@
     "uptimeYear": "100.00%",
     "time": 2558,
     "timeDay": 9117,
-    "timeWeek": 2987,
+    "timeWeek": 3118,
     "timeMonth": 2803,
     "timeYear": 2558,
     "dailyMinutesDown": {}
@@ -626,18 +626,20 @@
     "url": "https://cloud.tymly.in/status/1048",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "ruchira-lilium-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 6075,
-    "timeDay": 16091,
-    "timeWeek": 6410,
-    "timeMonth": 5358,
-    "timeYear": 6075,
-    "dailyMinutesDown": {}
+    "time": 6182,
+    "timeDay": 18901,
+    "timeWeek": 7940,
+    "timeMonth": 5748,
+    "timeYear": 6182,
+    "dailyMinutesDown": {
+      "2021-06-14": 4
+    }
   },
   {
     "name": "Nitesh Flushing Meadows Block D",
@@ -790,17 +792,17 @@
     "slug": "psr-aster-1",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.61%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
     "time": 9482,
     "timeDay": 12324,
     "timeWeek": 10110,
-    "timeMonth": 10047,
+    "timeMonth": 10005,
     "timeYear": 9482,
     "dailyMinutesDown": {
-      "2021-06-14": 130
+      "2021-06-14": 121
     }
   },
   {
@@ -962,7 +964,7 @@
     "uptimeYear": "100.00%",
     "time": 2801,
     "timeDay": 3488,
-    "timeWeek": 1397,
+    "timeWeek": 1325,
     "timeMonth": 1643,
     "timeYear": 2801,
     "dailyMinutesDown": {}
@@ -1172,18 +1174,20 @@
     "url": "https://cloud.tymly.in/status/1095",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "whitestone-landmark",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3933,
-    "timeDay": 6132,
-    "timeWeek": 4906,
-    "timeMonth": 3379,
-    "timeYear": 3933,
-    "dailyMinutesDown": {}
+    "time": 4037,
+    "timeDay": 8866,
+    "timeWeek": 5886,
+    "timeMonth": 3670,
+    "timeYear": 4037,
+    "dailyMinutesDown": {
+      "2021-06-14": 2
+    }
   },
   {
     "name": "White Breeze 1",
@@ -1739,7 +1743,7 @@
     "time": 5691,
     "timeDay": 8683,
     "timeWeek": 6605,
-    "timeMonth": 5560,
+    "timeMonth": 5289,
     "timeYear": 5691,
     "dailyMinutesDown": {}
   },
@@ -1756,8 +1760,8 @@
     "uptimeYear": "100.00%",
     "time": 9355,
     "timeDay": 12240,
-    "timeWeek": 7945,
-    "timeMonth": 7809,
+    "timeWeek": 8241,
+    "timeMonth": 7705,
     "timeYear": 9355,
     "dailyMinutesDown": {}
   },
@@ -1785,18 +1789,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "78.91%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.70%",
+    "uptimeDay": "71.12%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.70%",
     "time": 5393,
     "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 304
+      "2021-06-14": 416
     }
   },
   {
