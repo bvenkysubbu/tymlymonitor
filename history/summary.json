@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
     "time": 6102,
     "timeDay": 11245,
     "timeWeek": 5596,
     "timeMonth": 4667,
     "timeYear": 6102,
     "dailyMinutesDown": {
-      "2021-06-14": 45
+      "2021-06-14": 54
     }
   },
   {
@@ -116,18 +116,20 @@
     "url": "https://cloud.tymly.in/status/1012",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sterling-shalom-d-block",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4180,
-    "timeDay": 5963,
-    "timeWeek": 4504,
-    "timeMonth": 4262,
-    "timeYear": 4180,
-    "dailyMinutesDown": {}
+    "time": 4148,
+    "timeDay": 3104,
+    "timeWeek": 3971,
+    "timeMonth": 4162,
+    "timeYear": 4148,
+    "dailyMinutesDown": {
+      "2021-06-14": 6
+    }
   },
   {
     "name": "Sterling Shalom F Block",
@@ -189,18 +191,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade-security",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
     "time": 3671,
     "timeDay": 5401,
     "timeWeek": 7285,
     "timeMonth": 3991,
     "timeYear": 3671,
     "dailyMinutesDown": {
-      "2021-06-14": 44
+      "2021-06-14": 54
     }
   },
   {
@@ -630,18 +632,20 @@
     "url": "https://cloud.tymly.in/status/1048",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "ruchira-lilium-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 6164,
-    "timeDay": 13793,
-    "timeWeek": 7543,
-    "timeMonth": 5697,
-    "timeYear": 6164,
-    "dailyMinutesDown": {}
+    "time": 6269,
+    "timeDay": 15762,
+    "timeWeek": 8720,
+    "timeMonth": 6060,
+    "timeYear": 6269,
+    "dailyMinutesDown": {
+      "2021-06-14": 4
+    }
   },
   {
     "name": "Nitesh Flushing Meadows Block D",
@@ -1194,19 +1198,19 @@
     "url": "https://cloud.tymly.in/status/1096",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "white-breeze-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 4548,
-    "timeDay": 12287,
-    "timeWeek": 6454,
-    "timeMonth": 5059,
-    "timeYear": 4548,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4543,
+    "timeDay": 9279,
+    "timeWeek": 6302,
+    "timeMonth": 5033,
+    "timeYear": 4543,
     "dailyMinutesDown": {
-      "2021-06-14": 3
+      "2021-06-14": 10
     }
   },
   {
@@ -1214,19 +1218,19 @@
     "url": "https://cloud.tymly.in/status/1097",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "white-breeze-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 4175,
-    "timeDay": 13176,
-    "timeWeek": 7415,
-    "timeMonth": 5160,
-    "timeYear": 4175,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4217,
+    "timeDay": 13059,
+    "timeWeek": 7673,
+    "timeMonth": 5277,
+    "timeYear": 4217,
     "dailyMinutesDown": {
-      "2021-06-14": 2
+      "2021-06-14": 9
     }
   },
   {
@@ -1793,18 +1797,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "67.98%",
-    "uptimeWeek": "95.43%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.66%",
+    "uptimeDay": "67.34%",
+    "uptimeWeek": "95.33%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.66%",
     "time": 5393,
     "timeDay": 5344,
     "timeWeek": 4800,
     "timeMonth": 4580,
     "timeYear": 5393,
     "dailyMinutesDown": {
-      "2021-06-14": 461
+      "2021-06-14": 470
     }
   },
   {
