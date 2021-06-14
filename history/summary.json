@@ -220,18 +220,20 @@
     "url": "https://cloud.tymly.in/status/1019",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "united-elysium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 7000,
-    "timeDay": 9986,
-    "timeWeek": 9604,
-    "timeMonth": 7840,
-    "timeYear": 7000,
-    "dailyMinutesDown": {}
+    "time": 7038,
+    "timeDay": 11690,
+    "timeWeek": 9898,
+    "timeMonth": 7942,
+    "timeYear": 7038,
+    "dailyMinutesDown": {
+      "2021-06-14": 5
+    }
   },
   {
     "name": "Greenville Whitefield",
@@ -383,18 +385,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "adithya-pristine-kmc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 6561,
     "timeDay": 9917,
     "timeWeek": 4793,
     "timeMonth": 4255,
     "timeYear": 6561,
     "dailyMinutesDown": {
-      "2021-06-14": 4
+      "2021-06-14": 17
     }
   },
   {
@@ -511,18 +513,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 7768,
     "timeDay": 8236,
     "timeWeek": 6281,
     "timeMonth": 8218,
     "timeYear": 7768,
     "dailyMinutesDown": {
-      "2021-06-14": 4
+      "2021-06-14": 17
     }
   },
   {
@@ -773,7 +775,7 @@
     "time": 5417,
     "timeDay": 10046,
     "timeWeek": 5689,
-    "timeMonth": 4039,
+    "timeMonth": 4076,
     "timeYear": 5417,
     "dailyMinutesDown": {}
   },
@@ -1221,7 +1223,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7477,
-    "timeDay": 8102,
+    "timeDay": 9201,
     "timeWeek": 8079,
     "timeMonth": 8071,
     "timeYear": 7477,
@@ -1745,7 +1747,7 @@
     "time": 9345,
     "timeDay": 12364,
     "timeWeek": 7655,
-    "timeMonth": 7617,
+    "timeMonth": 7643,
     "timeYear": 9345,
     "dailyMinutesDown": {}
   },
@@ -1772,17 +1774,17 @@
     "url": "https://cloud.tymly.in/status/1130",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "vbhc-serene-town-b-block",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5414,
-    "timeDay": 5540,
-    "timeWeek": 4962,
-    "timeMonth": 4583,
-    "timeYear": 5414,
+    "time": 5410,
+    "timeDay": 5341,
+    "timeWeek": 4938,
+    "timeMonth": 4580,
+    "timeYear": 5410,
     "dailyMinutesDown": {}
   },
   {
