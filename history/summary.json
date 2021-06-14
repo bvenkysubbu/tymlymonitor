@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 2363,
     "timeDay": 2721,
-    "timeWeek": 4266,
+    "timeWeek": 4230,
     "timeMonth": 2242,
     "timeYear": 2363,
     "dailyMinutesDown": {}
@@ -221,18 +221,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "united-elysium",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 7038,
     "timeDay": 11690,
     "timeWeek": 9898,
     "timeMonth": 7942,
     "timeYear": 7038,
     "dailyMinutesDown": {
-      "2021-06-14": 5
+      "2021-06-14": 13
     }
   },
   {
@@ -384,19 +384,19 @@
     "url": "https://cloud.tymly.in/status/1028",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "adithya-pristine-kmc",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 6561,
-    "timeDay": 9917,
-    "timeWeek": 4793,
-    "timeMonth": 4255,
+    "timeDay": 9462,
+    "timeWeek": 4868,
+    "timeMonth": 4297,
     "timeYear": 6561,
     "dailyMinutesDown": {
-      "2021-06-14": 17
+      "2021-06-14": 22
     }
   },
   {
@@ -513,18 +513,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "snr-silver-ripples",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 7768,
     "timeDay": 8236,
     "timeWeek": 6281,
     "timeMonth": 8218,
     "timeYear": 7768,
     "dailyMinutesDown": {
-      "2021-06-14": 17
+      "2021-06-14": 25
     }
   },
   {
