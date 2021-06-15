@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "trifecta-esplanade",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "2.34%",
-    "uptimeWeek": "86.05%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.98%",
+    "uptimeDay": "1.54%",
+    "uptimeWeek": "85.93%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "98.98%",
     "time": 6119,
     "timeDay": 8031,
     "timeWeek": 6330,
     "timeMonth": 4579,
     "timeYear": 6119,
     "dailyMinutesDown": {
-      "2021-06-15": 1165,
+      "2021-06-15": 1177,
       "2021-06-14": 241
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "casa-gopalan-block-b-lift",
     "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "6.16%",
-    "uptimeWeek": "86.59%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "99.03%",
+    "uptime": "99.02%",
+    "uptimeDay": "5.36%",
+    "uptimeWeek": "86.48%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "99.02%",
     "time": 4287,
     "timeDay": 4364,
     "timeWeek": 6517,
     "timeMonth": 5214,
     "timeYear": 4287,
     "dailyMinutesDown": {
-      "2021-06-15": 1165,
+      "2021-06-15": 1177,
       "2021-06-14": 186
     }
   },
@@ -238,17 +238,17 @@
     "slug": "united-elysium",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "37.73%",
-    "uptimeWeek": "88.61%",
-    "uptimeMonth": "97.38%",
+    "uptimeDay": "36.94%",
+    "uptimeWeek": "88.49%",
+    "uptimeMonth": "97.35%",
     "uptimeYear": "99.17%",
     "time": 7088,
     "timeDay": 6521,
     "timeWeek": 10184,
-    "timeMonth": 8124,
+    "timeMonth": 8140,
     "timeYear": 7088,
     "dailyMinutesDown": {
-      "2021-06-15": 897,
+      "2021-06-15": 908,
       "2021-06-14": 252
     }
   },
@@ -358,7 +358,7 @@
     "time": 3041,
     "timeDay": 7130,
     "timeWeek": 7698,
-    "timeMonth": 5381,
+    "timeMonth": 5435,
     "timeYear": 3041,
     "dailyMinutesDown": {}
   },
@@ -757,19 +757,19 @@
     "url": "https://cloud.tymly.in/status/1058",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "prakruthi-villas-sarjapura",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "80.40%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.80%",
-    "time": 5397,
-    "timeDay": 4838,
-    "timeWeek": 5586,
-    "timeMonth": 4141,
-    "timeYear": 5397,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "79.85%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.79%",
+    "time": 5410,
+    "timeDay": 5219,
+    "timeWeek": 5684,
+    "timeMonth": 4189,
+    "timeYear": 5410,
     "dailyMinutesDown": {
-      "2021-06-15": 282
+      "2021-06-15": 290
     }
   },
   {
@@ -929,18 +929,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sterling-villa-grande",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "61.60%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.59%",
+    "uptimeDay": "60.82%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.59%",
     "time": 2750,
     "timeDay": 1204,
     "timeWeek": 1297,
     "timeMonth": 1531,
     "timeYear": 2750,
     "dailyMinutesDown": {
-      "2021-06-15": 553
+      "2021-06-15": 564
     }
   },
   {
@@ -1005,18 +1005,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "sai-gardens-temple-side",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "21.72%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.18%",
+    "uptimeDay": "20.94%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "99.18%",
     "time": 2987,
     "timeDay": 5133,
     "timeWeek": 4937,
     "timeMonth": 3599,
     "timeYear": 2987,
     "dailyMinutesDown": {
-      "2021-06-15": 1037,
+      "2021-06-15": 1048,
       "2021-06-14": 91
     }
   },
@@ -1179,18 +1179,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "white-breeze-1",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "76.51%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "75.74%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.75%",
     "time": 4545,
     "timeDay": 7515,
     "timeWeek": 6247,
     "timeMonth": 5027,
     "timeYear": 4545,
     "dailyMinutesDown": {
-      "2021-06-15": 338
+      "2021-06-15": 349
     }
   },
   {
@@ -1731,7 +1731,7 @@
     "time": 5663,
     "timeDay": 3576,
     "timeWeek": 5045,
-    "timeMonth": 5416,
+    "timeMonth": 5436,
     "timeYear": 5663,
     "dailyMinutesDown": {}
   },
@@ -1749,7 +1749,7 @@
     "time": 9350,
     "timeDay": 8780,
     "timeWeek": 9276,
-    "timeMonth": 7884,
+    "timeMonth": 7927,
     "timeYear": 9350,
     "dailyMinutesDown": {
       "2021-06-15": 16
@@ -1780,7 +1780,7 @@
     "slug": "vbhc-serene-town-b-block",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "48.03%",
+    "uptimeDay": "48.80%",
     "uptimeWeek": "88.78%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.19%",
@@ -1964,18 +1964,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "amrutha-sarovar-office",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "55.00%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.16%",
+    "uptimeDay": "54.23%",
+    "uptimeWeek": "93.46%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "99.16%",
     "time": 8754,
     "timeDay": 13577,
     "timeWeek": 8293,
     "timeMonth": 8691,
     "timeYear": 8754,
     "dailyMinutesDown": {
-      "2021-06-15": 649
+      "2021-06-15": 660
     }
   },
   {
