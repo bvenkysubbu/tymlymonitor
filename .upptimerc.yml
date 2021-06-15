@@ -49,9 +49,6 @@ sites:
   - name: Sunshine Silicon Citi
     url: https://cloud.tymly.in/status/1021
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Pruksa Silvana
-    url: https://cloud.tymly.in/status/1022
-    __dangerous__body_degraded: '{"status": "down"}'
   - name: Nitesh Forest Hills and Flush Meadows
     url: https://cloud.tymly.in/status/1023
     __dangerous__body_degraded: '{"status": "down"}'
@@ -97,9 +94,6 @@ sites:
   - name: Adarsh Vihar
     url: https://cloud.tymly.in/status/1041
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Pruksa Silvana 2
-    url: https://cloud.tymly.in/status/1044
-    __dangerous__body_degraded: '{"status": "down"}'
   - name: Urban Greens
     url: https://cloud.tymly.in/status/1046
     __dangerous__body_degraded: '{"status": "down"}'
@@ -144,9 +138,6 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Balaji Sunflower
     url: https://cloud.tymly.in/status/1062
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Test 20148
-    url: https://cloud.tymly.in/status/1063
     __dangerous__body_degraded: '{"status": "down"}'
   - name: PSR Aster 3 E Block
     url: https://cloud.tymly.in/status/1064
