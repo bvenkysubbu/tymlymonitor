@@ -328,8 +328,11 @@ sites:
   - name: Sterling Ascentia Tower 6
     url: https://cloud.tymly.in/status/1142
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: BSterling Ascentia Tower 5
+  - name: Sterling Ascentia Tower 5
     url: https://cloud.tymly.in/status/1143
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Brigade Cosmopolis Clubhouse End
+    url: https://cloud.tymly.in/status/1144
     __dangerous__body_degraded: '{"status": "down"}'
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
