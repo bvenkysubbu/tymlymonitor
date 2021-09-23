@@ -4,8 +4,14 @@ repo: tymlymonitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Trifecta Esplanade
-    url: https://cloud.tymly.in/status/1003
+  - name: Trifecta Esplanade Clubhouse
+    url: https://cloud.tymly.in/status/1167
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Trifecta Esplanade Security
+    url: https://cloud.tymly.in/status/1168
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Trifecta Esplanade Multipurpose Hall
+    url: https://cloud.tymly.in/status/1169
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Casa Gopalan Block B Lift
     url: https://cloud.tymly.in/status/1005
@@ -33,9 +39,6 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Amrutha Sarovar
     url: https://cloud.tymly.in/status/1016
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Trifecta Esplanade Security
-    url: https://cloud.tymly.in/status/1017
     __dangerous__body_degraded: '{"status": "down"}'
   - name: SBB Touchstone Reborn
     url: https://cloud.tymly.in/status/1018
