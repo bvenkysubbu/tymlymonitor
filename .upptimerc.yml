@@ -350,6 +350,7 @@ status-website:
     - title: Status
       href: /
   js: "window.onload = function() { alert('Hello!'); document.title = \"New Tymly Monitor\"; }"
+  js: "function contains(t,n){var e=document.querySelectorAll(t);return Array.prototype.filter.call(e,function(t){return RegExp(n).test(t.textContent)})}window.onload = function() {foundDivs=contains('section','Active Incidents'),foundDivs[0].remove();}"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
