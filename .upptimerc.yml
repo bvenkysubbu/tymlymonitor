@@ -349,8 +349,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-  scripts:
-    - src: "https://raw.githubusercontent.com/bvenkysubbu/tymlymonitor/master/custom/custom.js"
+  js: "window.onload = function() { alert('Hello!'); document.title = "New Tymly Monitor"; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
