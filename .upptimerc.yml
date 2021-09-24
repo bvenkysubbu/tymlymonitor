@@ -350,10 +350,7 @@ status-website:
     - title: Status
       href: /
   scripts:
-    - src: "https://code.jquery.com/jquery-3.6.0.min.js"
-      integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-      crossorigin: "anonymous"
-  js: "setTimeout(function(){$('section:contains(\"Active Incidents\")').remove();}, 60000)"
+    - src: "https://raw.githubusercontent.com/bvenkysubbu/tymlymonitor/master/custom/custom.js"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
