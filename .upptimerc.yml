@@ -174,7 +174,7 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Mahaveer Varna A4
     url: https://cloud.tymly.in/status/1084
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Mahaveer Varna B1
     url: https://cloud.tymly.in/status/1085
     __dangerous__body_degraded: '{"status": "down"}'
@@ -210,85 +210,61 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Prestige Lakeside Habitat Tower 1
     url: https://cloud.tymly.in/status/1102
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 2 and 3
     url: https://cloud.tymly.in/status/1103
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 4
     url: https://cloud.tymly.in/status/1104
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 5 and 6
     url: https://cloud.tymly.in/status/1105
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 7 and 8
     url: https://cloud.tymly.in/status/1106
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 12
     url: https://cloud.tymly.in/status/1107
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 14
     url: https://cloud.tymly.in/status/1108
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 15 and 16
     url: https://cloud.tymly.in/status/1109
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 17
     url: https://cloud.tymly.in/status/1110
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 18
     url: https://cloud.tymly.in/status/1111
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 19
     url: https://cloud.tymly.in/status/1112
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 20
     url: https://cloud.tymly.in/status/1113
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 21
     url: https://cloud.tymly.in/status/1114
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 22
     url: https://cloud.tymly.in/status/1115
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 9
     url: https://cloud.tymly.in/status/1116
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 10
     url: https://cloud.tymly.in/status/1117
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 11
     url: https://cloud.tymly.in/status/1118
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 23
     url: https://cloud.tymly.in/status/1119
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: Prestige Lakeside Habitat Tower 24
     url: https://cloud.tymly.in/status/1120
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat 20
-    url: https://cloud.tymly.in/status/1121
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat 21
-    url: https://cloud.tymly.in/status/1122
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat 22
-    url: https://cloud.tymly.in/status/1123
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat 23
-    url: https://cloud.tymly.in/status/1124
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat 24
-    url: https://cloud.tymly.in/status/1125
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat 25
-    url: https://cloud.tymly.in/status/1126
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: SBC Nest A Block
-    url: https://cloud.tymly.in/status/1127
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: SBC Nest B Block
-    url: https://cloud.tymly.in/status/1128
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "unknown"}'
   - name: VBHC Serene Town A Block
     url: https://cloud.tymly.in/status/1129
     __dangerous__body_degraded: '{"status": "down"}'
