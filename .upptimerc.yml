@@ -136,9 +136,6 @@ sites:
   - name: Nitesh Flushing Meadows Block C
     url: https://cloud.tymly.in/status/1054
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sandeep Vihar Club House
-    url: https://cloud.tymly.in/status/1055
-    __dangerous__body_degraded: '{"status": "down"}'
   - name: Prakruthi Villas Sarjapura
     url: https://cloud.tymly.in/status/1058
     __dangerous__body_degraded: '{"status": "down"}'
@@ -366,30 +363,17 @@ sites:
     url: https://cloud.tymly.in/status/1145
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade A Block
-    url: https://cloud.tymly.in/status/1111
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Trifecta Esplanade A Block
     url: https://cloud.tymly.in/status/1153
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade B Block
     url: https://cloud.tymly.in/status/1154
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade C Block
     url: https://cloud.tymly.in/status/1155
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade D Block
     url: https://cloud.tymly.in/status/1156
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade E Block
     url: https://cloud.tymly.in/status/1157
     expectedStatusCodes:
@@ -455,7 +439,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /tymlymonitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://tymly.in/img/tymly_logo.png
   name: tymly monitor
   introTitle: "**tymly monitor ** is the uptime monitor and status page for tymly smart boards."
   introMessage: This is the status page for tymly smart notice boards.
