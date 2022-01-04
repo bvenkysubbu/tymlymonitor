@@ -421,9 +421,7 @@ sites:
       - 521
   - name: Trifecta Esplanade N Block
     url: https://cloud.tymly.in/status/1165
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade O Block
     url: https://cloud.tymly.in/status/1166
     __dangerous__body_degraded: '{"status": "down"}'
