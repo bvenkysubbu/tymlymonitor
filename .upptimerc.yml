@@ -61,9 +61,6 @@ sites:
   - name: Greenville Whitefield
     url: https://cloud.tymly.in/status/1020
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sunshine Silicon Citi
-    url: https://cloud.tymly.in/status/1021
-    __dangerous__body_degraded: '{"status": "down"}'
   - name: Nitesh Forest Hills and Flush Meadows
     url: https://cloud.tymly.in/status/1023
     __dangerous__body_degraded: '{"status": "down"}'
@@ -343,9 +340,6 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Dasta Concerto Basement
     url: https://cloud.tymly.in/status/1138
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sunshine Silicon Citi 2
-    url: https://cloud.tymly.in/status/1139
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Amrutha Sarovar Office
     url: https://cloud.tymly.in/status/1140
