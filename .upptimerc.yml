@@ -4,6 +4,18 @@ repo: tymlymonitor # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: SMD Altezz Block A
+    url: https://cloud.tymly.in/status/1175
+    __dangerous__body_degraded: '{"status": "down"}'  
+  - name: SMD Altezz Block B
+    url: https://cloud.tymly.in/status/1176
+    __dangerous__body_degraded: '{"status": "down"}'  
+  - name: SMD Altezz Block C
+    url: https://cloud.tymly.in/status/1177
+    __dangerous__body_degraded: '{"status": "down"}'  
+  - name: SMD Altezz Clubhouse
+    url: https://cloud.tymly.in/status/1178
+    __dangerous__body_degraded: '{"status": "down"}'  
   - name: Prestige Jade Pavilion Tower 1
     url: https://cloud.tymly.in/status/1172
     __dangerous__body_degraded: '{"status": "down"}'  
@@ -303,7 +315,10 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade P Block
     url: https://cloud.tymly.in/status/1017
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "down"}'    
+  - name: Trifecta Esplanade Common Area
+    url: https://cloud.tymly.in/status/1174
+    __dangerous__body_degraded: '{"status": "down"}'    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
