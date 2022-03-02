@@ -180,9 +180,7 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Mahaveer Varna A4
     url: https://cloud.tymly.in/status/1084
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Mahaveer Varna B1
     url: https://cloud.tymly.in/status/1085
     __dangerous__body_degraded: '{"status": "down"}'
@@ -210,107 +208,9 @@ sites:
   - name: Sowparnika Swastika 2
     url: https://cloud.tymly.in/status/1099
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat Tower 13
-    url: https://cloud.tymly.in/status/1100
-    __dangerous__body_degraded: '{"status": "down"}'
   - name: Sowparnika Swastika 1
     url: https://cloud.tymly.in/status/1101
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Prestige Lakeside Habitat Tower 1
-    url: https://cloud.tymly.in/status/1102
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 2 and 3
-    url: https://cloud.tymly.in/status/1103
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 4
-    url: https://cloud.tymly.in/status/1104
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 5 and 6
-    url: https://cloud.tymly.in/status/1105
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 7 and 8
-    url: https://cloud.tymly.in/status/1106
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 12
-    url: https://cloud.tymly.in/status/1107
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 14
-    url: https://cloud.tymly.in/status/1108
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 15 and 16
-    url: https://cloud.tymly.in/status/1109
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 17
-    url: https://cloud.tymly.in/status/1110
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 18
-    url: https://cloud.tymly.in/status/1111
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 19
-    url: https://cloud.tymly.in/status/1112
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 20
-    url: https://cloud.tymly.in/status/1113
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 21
-    url: https://cloud.tymly.in/status/1114
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 22
-    url: https://cloud.tymly.in/status/1115
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 9
-    url: https://cloud.tymly.in/status/1116
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 10
-    url: https://cloud.tymly.in/status/1117
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 11
-    url: https://cloud.tymly.in/status/1118
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 23
-    url: https://cloud.tymly.in/status/1119
-    expectedStatusCodes:
-      - 200
-      - 521
-  - name: Prestige Lakeside Habitat Tower 24
-    url: https://cloud.tymly.in/status/1120
-    expectedStatusCodes:
-      - 200
-      - 521
   - name: VBHC Serene Town A Block
     url: https://cloud.tymly.in/status/1129
     __dangerous__body_degraded: '{"status": "down"}'
@@ -370,49 +270,31 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade E Block
     url: https://cloud.tymly.in/status/1157
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade F Block
     url: https://cloud.tymly.in/status/1159
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade G Block
     url: https://cloud.tymly.in/status/1158
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade H Block
     url: https://cloud.tymly.in/status/1161
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade I Block
     url: https://cloud.tymly.in/status/1160
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade J Block
     url: https://cloud.tymly.in/status/1162
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade K Block
     url: https://cloud.tymly.in/status/1163
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade L Block
     url: https://cloud.tymly.in/status/1164
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade M Block
     url: https://cloud.tymly.in/status/1003
-    expectedStatusCodes:
-      - 200
-      - 521
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Trifecta Esplanade N Block
     url: https://cloud.tymly.in/status/1165
     __dangerous__body_degraded: '{"status": "down"}'
