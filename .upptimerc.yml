@@ -64,8 +64,20 @@ sites:
   - name: Amrutha Sarovar
     url: https://cloud.tymly.in/status/1016
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: SBB Touchstone Reborn
+  - name: SBB Touchstone B Block
     url: https://cloud.tymly.in/status/1018
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SBB Touchstone C Block
+    url: https://cloud.tymly.in/status/1084
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SBB Touchstone D Block
+    url: https://cloud.tymly.in/status/1085
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SBB Touchstone A1 Block
+    url: https://cloud.tymly.in/status/1086
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: SBB Touchstone A2 Block
+    url: https://cloud.tymly.in/status/1087
     __dangerous__body_degraded: '{"status": "down"}'
   - name: United Elysium
     url: https://cloud.tymly.in/status/1019
@@ -90,15 +102,6 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Adithya Pristine KMC
     url: https://cloud.tymly.in/status/1028
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sraddha Whitecliff
-    url: https://cloud.tymly.in/status/1033
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sraddha Whitecliff 2
-    url: https://cloud.tymly.in/status/1034
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sraddha Whitecliff 3
-    url: https://cloud.tymly.in/status/1035
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Sowparnika Ananda
     url: https://cloud.tymly.in/status/1036
@@ -246,6 +249,12 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Madhuban Brindavan B Block
     url: https://cloud.tymly.in/status/1136
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Madhuban Brindavan 3 Block
+    url: https://cloud.tymly.in/status/1182
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Madhuban Brindavan 4 Block
+    url: https://cloud.tymly.in/status/1183
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Dasta Concerto Entrance
     url: https://cloud.tymly.in/status/1137
