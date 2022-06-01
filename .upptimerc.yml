@@ -43,9 +43,6 @@ sites:
   - name: Casa Gopalan Block A Lift
     url: https://cloud.tymly.in/status/1006
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: Gayathri Goodlife
-    url: https://cloud.tymly.in/status/1009
-    __dangerous__body_degraded: '{"status": "down"}'
   - name: Amrutha Value
     url: https://cloud.tymly.in/status/1010
     __dangerous__body_degraded: '{"status": "down"}'
