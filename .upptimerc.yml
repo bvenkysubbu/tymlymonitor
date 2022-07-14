@@ -54,7 +54,7 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Sterling Shalom F Block
     url: https://cloud.tymly.in/status/1013
-    __dangerous__body_degraded: '{"status": "down"}'c
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Sai Raghavendras Bloomfields
     url: https://cloud.tymly.in/status/1014
     __dangerous__body_degraded: '{"status": "down"}'
