@@ -54,7 +54,7 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Sterling Shalom F Block
     url: https://cloud.tymly.in/status/1013
-    __dangerous__body_degraded: '{"status": "down"}'
+    __dangerous__body_degraded: '{"status": "down"}'c
   - name: Sai Raghavendras Bloomfields
     url: https://cloud.tymly.in/status/1014
     __dangerous__body_degraded: '{"status": "down"}'
@@ -148,23 +148,11 @@ sites:
   - name: Prakruthi Villas Sarjapura
     url: https://cloud.tymly.in/status/1058
     __dangerous__body_degraded: '{"status": "down"}'
-  - name: PSR Aster 1
-    url: https://cloud.tymly.in/status/1059
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: PSR Aster 2 G Block
-    url: https://cloud.tymly.in/status/1060
-    __dangerous__body_degraded: '{"status": "down"}'
   - name: Sowparnika Ananda D Block
     url: https://cloud.tymly.in/status/1061
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Balaji Sunflower
     url: https://cloud.tymly.in/status/1062
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: PSR Aster 3 E Block
-    url: https://cloud.tymly.in/status/1064
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: PSR Aster 4 C Block
-    url: https://cloud.tymly.in/status/1065
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Sai Gardens
     url: https://cloud.tymly.in/status/1066
@@ -216,12 +204,6 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: White Breeze 2
     url: https://cloud.tymly.in/status/1097
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sowparnika Swastika 2
-    url: https://cloud.tymly.in/status/1099
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sowparnika Swastika 1
-    url: https://cloud.tymly.in/status/1101
     __dangerous__body_degraded: '{"status": "down"}'
   - name: VBHC Serene Town A Block
     url: https://cloud.tymly.in/status/1129
