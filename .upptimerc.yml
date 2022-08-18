@@ -172,8 +172,50 @@ sites:
   - name: Balaji Sunflower
     url: https://cloud.tymly.in/status/1062
     __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sri Balaji Sunflower A Block
+    url: https://cloud.tymly.in/status/1062
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sri Balaji Sunflower B Block
+    url: https://cloud.tymly.in/status/1062
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sri Balaji Sunflower C Block
+    url: https://cloud.tymly.in/status/1062
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Sai Gardens
     url: https://cloud.tymly.in/status/1066
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Community Hall
+    url: https://cloud.tymly.in/status/1073
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Temple Side
+    url: https://cloud.tymly.in/status/1074
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Shanthi II
+    url: https://cloud.tymly.in/status/1193
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Dharma 8
+    url: https://cloud.tymly.in/status/1194
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Prema 2
+    url: https://cloud.tymly.in/status/1195
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Sathya 2
+    url: https://cloud.tymly.in/status/1196
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Sathya 5
+    url: https://cloud.tymly.in/status/1197
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Shanthi 3
+    url: https://cloud.tymly.in/status/1198
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Dharma 5
+    url: https://cloud.tymly.in/status/1199
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Dharma 2
+    url: https://cloud.tymly.in/status/1200
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Sai Gardens Sathya 6
+    url: https://cloud.tymly.in/status/1202
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Hinduja Park 1
     url: https://cloud.tymly.in/status/1067
@@ -186,12 +228,6 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Sterling Shalom E Block
     url: https://cloud.tymly.in/status/1070
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sai Gardens Community Hall
-    url: https://cloud.tymly.in/status/1073
-    __dangerous__body_degraded: '{"status": "down"}'
-  - name: Sai Gardens Temple Side
-    url: https://cloud.tymly.in/status/1074
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Mahaveer Varna A1
     url: https://cloud.tymly.in/status/1083
