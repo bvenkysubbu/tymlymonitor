@@ -52,6 +52,12 @@ sites:
   - name: Casa Gopalan Block A Lift
     url: https://cloud.tymly.in/status/1006
     __dangerous__body_degraded: '{"status": "down"}'
+  - name: Casa Gopalan Basement 2
+    url: https://cloud.tymly.in/status/1190
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Casa Gopalan Block B Ground Floor
+    url: https://cloud.tymly.in/status/1191
+    __dangerous__body_degraded: '{"status": "down"}'
   - name: Amrutha Value
     url: https://cloud.tymly.in/status/1010
     __dangerous__body_degraded: '{"status": "down"}'
@@ -207,6 +213,9 @@ sites:
     __dangerous__body_degraded: '{"status": "down"}'
   - name: Whitestone Landmark
     url: https://cloud.tymly.in/status/1095
+    __dangerous__body_degraded: '{"status": "down"}'
+  - name: Whitestone Landmark Block A
+    url: https://cloud.tymly.in/status/1192
     __dangerous__body_degraded: '{"status": "down"}'
   - name: White Breeze 1
     url: https://cloud.tymly.in/status/1096
