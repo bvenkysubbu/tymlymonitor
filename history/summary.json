@@ -8,7 +8,7 @@
     "uptime": "81.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.69%",
-    "uptimeMonth": "59.28%",
+    "uptimeMonth": "59.45%",
     "uptimeYear": "81.95%",
     "time": 8638,
     "timeDay": 0,
@@ -91,7 +91,7 @@
     "uptime": "92.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.69%",
-    "uptimeMonth": "91.70%",
+    "uptimeMonth": "91.87%",
     "uptimeYear": "92.10%",
     "time": 8081,
     "timeDay": 0,
@@ -440,11 +440,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "smd-altezz-block-a-basement",
     "status": "up",
-    "uptime": "55.72%",
+    "uptime": "55.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.68%",
-    "uptimeMonth": "59.28%",
-    "uptimeYear": "55.72%",
+    "uptimeMonth": "59.45%",
+    "uptimeYear": "55.74%",
     "time": 7158,
     "timeDay": 0,
     "timeWeek": 2903,
@@ -527,11 +527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "smd-altezz-block-b-basement",
     "status": "up",
-    "uptime": "79.63%",
+    "uptime": "79.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.68%",
-    "uptimeMonth": "59.27%",
-    "uptimeYear": "79.63%",
+    "uptimeMonth": "59.45%",
+    "uptimeYear": "79.64%",
     "time": 6497,
     "timeDay": 0,
     "timeWeek": 3282,
@@ -627,8 +627,8 @@
     "uptime": "78.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.95%",
-    "uptimeMonth": "74.78%",
-    "uptimeYear": "79.28%",
+    "uptimeMonth": "74.95%",
+    "uptimeYear": "79.30%",
     "time": 5400,
     "timeDay": 0,
     "timeWeek": 3626,
@@ -754,8 +754,7 @@
       "2021-11-29": 58,
       "2021-11-27": 1116,
       "2021-11-26": 1440,
-      "2021-11-25": 1190,
-      "2021-11-24": 606
+      "2021-11-25": 1190
     }
   },
   {
@@ -768,7 +767,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "75.78%",
     "uptimeMonth": "81.97%",
-    "uptimeYear": "84.00%",
+    "uptimeYear": "84.01%",
     "time": 4249,
     "timeDay": 0,
     "timeWeek": 3394,
@@ -904,8 +903,7 @@
       "2021-11-29": 35,
       "2021-11-27": 1116,
       "2021-11-26": 1440,
-      "2021-11-25": 1190,
-      "2021-11-24": 603
+      "2021-11-25": 1190
     }
   },
   {
@@ -914,11 +912,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "prestige-jade-pavilion-tower-3",
     "status": "up",
-    "uptime": "70.44%",
+    "uptime": "70.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.94%",
-    "uptimeMonth": "33.54%",
-    "uptimeYear": "75.56%",
+    "uptimeMonth": "33.72%",
+    "uptimeYear": "75.57%",
     "time": 3849,
     "timeDay": 0,
     "timeWeek": 4206,
@@ -1054,8 +1052,7 @@
       "2021-11-29": 33,
       "2021-11-27": 1116,
       "2021-11-26": 1440,
-      "2021-11-25": 1190,
-      "2021-11-24": 623
+      "2021-11-25": 1190
     }
   },
   {
@@ -1067,8 +1064,8 @@
     "uptime": "71.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.94%",
-    "uptimeMonth": "88.24%",
-    "uptimeYear": "74.72%",
+    "uptimeMonth": "88.42%",
+    "uptimeYear": "74.73%",
     "time": 3799,
     "timeDay": 0,
     "timeWeek": 3392,
@@ -1196,8 +1193,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1247,
-      "2021-11-24": 621
+      "2021-11-25": 1247
     }
   },
   {
@@ -1206,18 +1202,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "trifecta-esplanade-clubhouse",
     "status": "down",
-    "uptime": "86.95%",
+    "uptime": "86.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.06%",
-    "uptimeMonth": "56.89%",
-    "uptimeYear": "84.74%",
+    "uptimeWeek": "67.32%",
+    "uptimeMonth": "56.72%",
+    "uptimeYear": "84.73%",
     "time": 5905,
     "timeDay": 0,
     "timeWeek": 5948,
     "timeMonth": 5046,
     "timeYear": 5764,
     "dailyMinutesDown": {
-      "2022-11-23": 1419,
+      "2022-11-24": 54,
+      "2022-11-23": 1440,
       "2022-11-22": 384,
       "2022-11-20": 265,
       "2022-11-19": 1151,
@@ -1351,12 +1348,12 @@
     "status": "up",
     "uptime": "93.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.69%",
+    "uptimeWeek": "84.89%",
     "uptimeMonth": "66.89%",
     "uptimeYear": "89.58%",
     "time": 6206,
     "timeDay": 0,
-    "timeWeek": 7552,
+    "timeWeek": 8462,
     "timeMonth": 6025,
     "timeYear": 6269,
     "dailyMinutesDown": {
@@ -1605,7 +1602,7 @@
     "uptime": "89.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.94%",
-    "uptimeMonth": "92.44%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "84.01%",
     "time": 4575,
     "timeDay": 0,
@@ -1719,8 +1716,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 848
+      "2021-11-25": 1440
     }
   },
   {
@@ -1732,8 +1728,8 @@
     "uptime": "90.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.94%",
-    "uptimeMonth": "96.00%",
-    "uptimeYear": "87.49%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "87.50%",
     "time": 4040,
     "timeDay": 0,
     "timeWeek": 3800,
@@ -1831,8 +1827,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 1018
+      "2021-11-25": 1440
     }
   },
   {
@@ -2078,7 +2073,7 @@
     "uptimeDay": "97.87%",
     "uptimeWeek": "85.64%",
     "uptimeMonth": "85.20%",
-    "uptimeYear": "71.49%",
+    "uptimeYear": "71.50%",
     "time": 4875,
     "timeDay": 11677,
     "timeWeek": 9128,
@@ -2224,8 +2219,7 @@
       "2021-12-03": 1105,
       "2021-12-02": 1121,
       "2021-12-01": 1440,
-      "2021-11-30": 568,
-      "2021-11-24": 602
+      "2021-11-30": 568
     }
   },
   {
@@ -2234,11 +2228,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "sterling-shalom-d-block",
     "status": "up",
-    "uptime": "82.33%",
+    "uptime": "82.34%",
     "uptimeDay": "98.62%",
     "uptimeWeek": "85.75%",
     "uptimeMonth": "87.66%",
-    "uptimeYear": "75.63%",
+    "uptimeYear": "75.64%",
     "time": 4303,
     "timeDay": 11758,
     "timeWeek": 5213,
@@ -2366,8 +2360,7 @@
       "2021-12-03": 1103,
       "2021-12-02": 1121,
       "2021-12-01": 1440,
-      "2021-11-30": 564,
-      "2021-11-24": 601
+      "2021-11-30": 564
     }
   },
   {
@@ -2380,7 +2373,7 @@
     "uptimeDay": "98.69%",
     "uptimeWeek": "85.75%",
     "uptimeMonth": "95.93%",
-    "uptimeYear": "74.51%",
+    "uptimeYear": "74.53%",
     "time": 4189,
     "timeDay": 11590,
     "timeWeek": 5681,
@@ -2518,8 +2511,7 @@
       "2021-12-02": 1121,
       "2021-12-01": 1440,
       "2021-11-30": 562,
-      "2021-11-25": 16,
-      "2021-11-24": 601
+      "2021-11-25": 16
     }
   },
   {
@@ -2532,7 +2524,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.94%",
     "uptimeMonth": "96.57%",
-    "uptimeYear": "89.39%",
+    "uptimeYear": "89.41%",
     "time": 3933,
     "timeDay": 0,
     "timeWeek": 3950,
@@ -2617,8 +2609,7 @@
       "2021-12-03": 224,
       "2021-12-02": 1122,
       "2021-12-01": 1440,
-      "2021-11-30": 559,
-      "2021-11-24": 499
+      "2021-11-30": 559
     }
   },
   {
@@ -2627,10 +2618,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "amrutha-sarovar",
     "status": "up",
-    "uptime": "69.50%",
-    "uptimeDay": "8.57%",
-    "uptimeWeek": "72.88%",
-    "uptimeMonth": "76.63%",
+    "uptime": "69.49%",
+    "uptimeDay": "3.28%",
+    "uptimeWeek": "72.12%",
+    "uptimeMonth": "76.46%",
     "uptimeYear": "71.14%",
     "time": 3418,
     "timeDay": 0,
@@ -2638,7 +2629,8 @@
     "timeMonth": 4777,
     "timeYear": 4795,
     "dailyMinutesDown": {
-      "2022-11-23": 1317,
+      "2022-11-24": 56,
+      "2022-11-23": 1337,
       "2022-11-20": 267,
       "2022-11-19": 1151,
       "2022-11-14": 21,
@@ -2793,8 +2785,7 @@
       "2021-11-30": 525,
       "2021-11-27": 564,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 1440
+      "2021-11-25": 1440
     }
   },
   {
@@ -2803,11 +2794,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "sbb-touchstone-b-block",
     "status": "up",
-    "uptime": "80.72%",
+    "uptime": "80.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.72%",
-    "uptimeMonth": "43.44%",
-    "uptimeYear": "80.72%",
+    "uptimeMonth": "43.62%",
+    "uptimeYear": "80.73%",
     "time": 6482,
     "timeDay": 0,
     "timeWeek": 12536,
@@ -2904,11 +2895,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "sbb-touchstone-c-block",
     "status": "up",
-    "uptime": "85.65%",
+    "uptime": "85.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.94%",
     "uptimeMonth": "75.68%",
-    "uptimeYear": "85.65%",
+    "uptimeYear": "85.66%",
     "time": 5748,
     "timeDay": 0,
     "timeWeek": 9071,
@@ -3154,11 +3145,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "sbb-touchstone-a2-block",
     "status": "up",
-    "uptime": "83.75%",
+    "uptime": "83.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.94%",
     "uptimeMonth": "76.03%",
-    "uptimeYear": "83.75%",
+    "uptimeYear": "83.76%",
     "time": 3913,
     "timeDay": 0,
     "timeWeek": 7984,
@@ -3234,9 +3225,9 @@
     "slug": "united-elysium",
     "status": "up",
     "uptime": "95.16%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "90.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.80%",
+    "uptimeMonth": "90.32%",
     "uptimeYear": "91.74%",
     "time": 7661,
     "timeDay": 11599,
@@ -3244,7 +3235,6 @@
     "timeMonth": 8260,
     "timeYear": 8215,
     "dailyMinutesDown": {
-      "2022-11-23": 12,
       "2022-11-20": 267,
       "2022-11-19": 1150,
       "2022-11-17": 14,
@@ -3332,7 +3322,8 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 720
+      "2022-06-12": 720,
+      "2022-06-11": 25
     }
   },
   {
@@ -3790,8 +3781,7 @@
       "2021-11-30": 865,
       "2021-11-27": 1118,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 615
+      "2021-11-25": 1440
     }
   },
   {
@@ -4247,18 +4237,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "adithya-pristine-kmc",
     "status": "up",
-    "uptime": "84.41%",
-    "uptimeDay": "8.55%",
-    "uptimeWeek": "64.54%",
-    "uptimeMonth": "74.83%",
-    "uptimeYear": "73.44%",
+    "uptime": "84.40%",
+    "uptimeDay": "3.24%",
+    "uptimeWeek": "63.79%",
+    "uptimeMonth": "74.65%",
+    "uptimeYear": "73.43%",
     "time": 4428,
     "timeDay": 0,
     "timeWeek": 2138,
     "timeMonth": 2907,
     "timeYear": 4503,
     "dailyMinutesDown": {
-      "2022-11-23": 1317,
+      "2022-11-24": 57,
+      "2022-11-23": 1336,
       "2022-11-22": 273,
       "2022-11-21": 567,
       "2022-11-20": 268,
@@ -4412,8 +4403,7 @@
       "2021-12-02": 329,
       "2021-11-30": 446,
       "2021-11-26": 104,
-      "2021-11-25": 1440,
-      "2021-11-24": 700
+      "2021-11-25": 1440
     }
   },
   {
@@ -4752,8 +4742,7 @@
       "2021-11-28": 987,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 592
+      "2021-11-25": 1440
     }
   },
   {
@@ -4968,8 +4957,7 @@
       "2021-11-28": 988,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 592
+      "2021-11-25": 1440
     }
   },
   {
@@ -4978,18 +4966,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "snr-silver-ripples",
     "status": "down",
-    "uptime": "96.95%",
-    "uptimeDay": "38.13%",
-    "uptimeWeek": "66.12%",
-    "uptimeMonth": "76.88%",
-    "uptimeYear": "94.80%",
+    "uptime": "96.94%",
+    "uptimeDay": "32.81%",
+    "uptimeWeek": "65.36%",
+    "uptimeMonth": "76.70%",
+    "uptimeYear": "94.78%",
     "time": 8160,
     "timeDay": 234,
     "timeWeek": 8724,
     "timeMonth": 7551,
     "timeYear": 8144,
     "dailyMinutesDown": {
-      "2022-11-23": 891,
+      "2022-11-24": 58,
+      "2022-11-23": 910,
       "2022-11-22": 41,
       "2022-11-20": 588,
       "2022-11-19": 1303,
@@ -5216,10 +5205,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "adarsh-vihar",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.69%",
-    "uptimeMonth": "84.50%",
+    "uptimeMonth": "84.68%",
     "uptimeYear": "91.33%",
     "time": 5429,
     "timeDay": 0,
@@ -5336,10 +5325,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "urban-greens",
     "status": "up",
-    "uptime": "89.52%",
-    "uptimeDay": "78.87%",
+    "uptime": "89.53%",
+    "uptimeDay": "84.20%",
     "uptimeWeek": "71.89%",
-    "uptimeMonth": "36.73%",
+    "uptimeMonth": "36.91%",
     "uptimeYear": "82.13%",
     "time": 4843,
     "timeDay": 2892,
@@ -6161,8 +6150,7 @@
       "2021-11-28": 228,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 770
+      "2021-11-25": 1440
     }
   },
   {
@@ -6171,7 +6159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "nitesh-forest-hills-block-b",
     "status": "up",
-    "uptime": "87.05%",
+    "uptime": "87.06%",
     "uptimeDay": "96.82%",
     "uptimeWeek": "84.91%",
     "uptimeMonth": "91.96%",
@@ -6332,7 +6320,7 @@
     "uptimeDay": "98.08%",
     "uptimeWeek": "85.08%",
     "uptimeMonth": "92.04%",
-    "uptimeYear": "73.55%",
+    "uptimeYear": "73.56%",
     "time": 4312,
     "timeDay": 1605,
     "timeWeek": 4274,
@@ -6483,8 +6471,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 1044
+      "2021-11-25": 1440
     }
   },
   {
@@ -6631,8 +6618,7 @@
       "2021-11-28": 228,
       "2021-11-27": 1406,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 766
+      "2021-11-25": 1440
     }
   },
   {
@@ -6805,8 +6791,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 764
+      "2021-11-25": 1440
     }
   },
   {
@@ -6816,9 +6801,9 @@
     "slug": "prakruthi-villas-sarjapura",
     "status": "down",
     "uptime": "96.10%",
-    "uptimeDay": "78.44%",
-    "uptimeWeek": "78.80%",
-    "uptimeMonth": "55.77%",
+    "uptimeDay": "78.02%",
+    "uptimeWeek": "78.74%",
+    "uptimeMonth": "55.76%",
     "uptimeYear": "93.34%",
     "time": 5952,
     "timeDay": 1851,
@@ -6826,7 +6811,7 @@
     "timeMonth": 6041,
     "timeYear": 5996,
     "dailyMinutesDown": {
-      "2022-11-23": 310,
+      "2022-11-23": 316,
       "2022-11-20": 597,
       "2022-11-19": 1149,
       "2022-11-18": 80,
@@ -6895,7 +6880,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.52%",
     "uptimeMonth": "70.22%",
-    "uptimeYear": "78.69%",
+    "uptimeYear": "78.70%",
     "time": 4128,
     "timeDay": 0,
     "timeWeek": 2489,
@@ -7020,8 +7005,7 @@
       "2021-11-30": 1440,
       "2021-11-29": 1440,
       "2021-11-28": 455,
-      "2021-11-26": 17,
-      "2021-11-24": 334
+      "2021-11-26": 17
     }
   },
   {
@@ -7030,18 +7014,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "balaji-sunflower",
     "status": "down",
-    "uptime": "66.28%",
+    "uptime": "66.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.47%",
+    "uptimeYear": "42.45%",
     "time": 6077,
     "timeDay": 0,
     "timeWeek": 237,
     "timeMonth": 501,
     "timeYear": 5884,
     "dailyMinutesDown": {
-      "2022-11-23": 1423,
+      "2022-11-24": 60,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -7323,7 +7308,8 @@
     "timeMonth": 340,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-11-23": 1423,
+      "2022-11-24": 60,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -7440,7 +7426,8 @@
     "timeMonth": 335,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2022-11-23": 1423,
+      "2022-11-24": 60,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -7557,7 +7544,8 @@
     "timeMonth": 343,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2022-11-23": 1423,
+      "2022-11-24": 60,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -7727,8 +7715,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 267,
-      "2021-11-24": 57
+      "2021-12-02": 267
     }
   },
   {
@@ -7952,11 +7939,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "sai-gardens-shanthi-ii",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.93%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "95.20%",
+    "uptimeYear": "95.21%",
     "time": 4505,
     "timeDay": 0,
     "timeWeek": 8318,
@@ -8225,7 +8212,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.93%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "77.31%",
+    "uptimeYear": "77.32%",
     "time": 6272,
     "timeDay": 0,
     "timeWeek": 3423,
@@ -8381,8 +8368,7 @@
       "2021-12-03": 817,
       "2021-12-02": 343,
       "2021-12-01": 1273,
-      "2021-11-30": 1086,
-      "2021-11-24": 334
+      "2021-11-30": 1086
     }
   },
   {
@@ -8391,18 +8377,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "sterling-villa-grande",
     "status": "down",
-    "uptime": "86.97%",
+    "uptime": "86.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.76%",
+    "uptimeYear": "77.75%",
     "time": 4008,
     "timeDay": 0,
     "timeWeek": 237,
     "timeMonth": 336,
     "timeYear": 4004,
     "dailyMinutesDown": {
-      "2022-11-23": 1424,
+      "2022-11-24": 61,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -8558,7 +8545,7 @@
     "status": "up",
     "uptime": "82.07%",
     "uptimeDay": "97.57%",
-    "uptimeWeek": "53.94%",
+    "uptimeWeek": "54.71%",
     "uptimeMonth": "44.34%",
     "uptimeYear": "79.49%",
     "time": 4866,
@@ -8674,8 +8661,7 @@
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
-      "2021-11-30": 828,
-      "2021-11-24": 349
+      "2021-11-30": 828
     }
   },
   {
@@ -8818,8 +8804,7 @@
       "2021-12-03": 1440,
       "2021-12-02": 164,
       "2021-12-01": 18,
-      "2021-11-27": 30,
-      "2021-11-24": 349
+      "2021-11-27": 30
     }
   },
   {
@@ -8829,16 +8814,18 @@
     "slug": "mahaveer-varna-a1",
     "status": "up",
     "uptime": "92.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "66.81%",
-    "uptimeMonth": "77.19%",
-    "uptimeYear": "87.22%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "66.87%",
+    "uptimeMonth": "77.03%",
+    "uptimeYear": "87.21%",
     "time": 6421,
     "timeDay": 11504,
     "timeWeek": 7721,
     "timeMonth": 6099,
     "timeYear": 6977,
     "dailyMinutesDown": {
+      "2022-11-24": 62,
+      "2022-11-23": 10,
       "2022-11-20": 272,
       "2022-11-19": 1147,
       "2022-11-18": 471,
@@ -8956,8 +8943,7 @@
       "2022-03-24": 1440,
       "2022-03-23": 1440,
       "2022-03-22": 879,
-      "2022-03-14": 22,
-      "2022-03-11": 20
+      "2022-03-14": 22
     }
   },
   {
@@ -8966,18 +8952,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "mahaveer-varna-a4",
     "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "84.51%",
-    "uptimeMonth": "95.66%",
-    "uptimeYear": "94.84%",
+    "uptime": "96.97%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "83.81%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "94.83%",
     "time": 4282,
     "timeDay": 11571,
     "timeWeek": 5872,
     "timeMonth": 5031,
     "timeYear": 5105,
     "dailyMinutesDown": {
-      "2022-11-23": 12,
+      "2022-11-24": 62,
+      "2022-11-23": 21,
       "2022-11-22": 19,
       "2022-11-20": 272,
       "2022-11-19": 1147,
@@ -9062,7 +9049,7 @@
       "2022-06-05": 1440,
       "2022-06-04": 1137,
       "2022-06-03": 471,
-      "2022-06-02": 725
+      "2022-06-02": 706
     }
   },
   {
@@ -9071,17 +9058,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "mahaveer-varna-b1",
     "status": "up",
-    "uptime": "84.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.92%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "74.52%",
+    "uptime": "85.02%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "85.23%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "74.50%",
     "time": 5752,
     "timeDay": 0,
     "timeWeek": 2738,
     "timeMonth": 2932,
     "timeYear": 5515,
     "dailyMinutesDown": {
+      "2022-11-24": 62,
+      "2022-11-23": 8,
       "2022-11-20": 272,
       "2022-11-19": 1147,
       "2022-10-15": 207,
@@ -9246,8 +9235,7 @@
       "2021-12-02": 342,
       "2021-12-01": 42,
       "2021-11-26": 453,
-      "2021-11-25": 1440,
-      "2021-11-24": 1058
+      "2021-11-25": 1440
     }
   },
   {
@@ -9256,18 +9244,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "mahaveer-varna-b3",
     "status": "up",
-    "uptime": "93.74%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "33.71%",
-    "uptimeMonth": "49.23%",
-    "uptimeYear": "89.32%",
+    "uptime": "93.78%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "33.53%",
+    "uptimeMonth": "49.25%",
+    "uptimeYear": "89.39%",
     "time": 6167,
     "timeDay": 17653,
-    "timeWeek": 4731,
+    "timeWeek": 4785,
     "timeMonth": 5840,
     "timeYear": 6164,
     "dailyMinutesDown": {
-      "2022-11-23": 105,
+      "2022-11-24": 62,
+      "2022-11-23": 113,
       "2022-11-22": 786,
       "2022-11-21": 928,
       "2022-11-20": 1411,
@@ -9333,7 +9322,7 @@
       "2022-09-17": 1214,
       "2022-09-16": 466,
       "2022-09-14": 273,
-      "2022-09-13": 943
+      "2022-09-13": 487
     }
   },
   {
@@ -9345,7 +9334,7 @@
     "uptime": "92.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.92%",
-    "uptimeMonth": "63.44%",
+    "uptimeMonth": "63.62%",
     "uptimeYear": "86.39%",
     "time": 6928,
     "timeDay": 0,
@@ -9488,13 +9477,13 @@
     "slug": "smr-vinay-cascade-b-block",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "70.33%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "70.85%",
     "uptimeMonth": "78.31%",
     "uptimeYear": "97.47%",
     "time": 13755,
-    "timeDay": 13374,
-    "timeWeek": 11738,
+    "timeDay": 15800,
+    "timeWeek": 11381,
     "timeMonth": 12810,
     "timeYear": 13711,
     "dailyMinutesDown": {
@@ -9555,12 +9544,12 @@
     "status": "up",
     "uptime": "94.03%",
     "uptimeDay": "59.02%",
-    "uptimeWeek": "14.94%",
-    "uptimeMonth": "29.22%",
+    "uptimeWeek": "15.62%",
+    "uptimeMonth": "29.40%",
     "uptimeYear": "89.81%",
     "time": 12596,
     "timeDay": 9496,
-    "timeWeek": 10577,
+    "timeWeek": 11152,
     "timeMonth": 8814,
     "timeYear": 12505,
     "dailyMinutesDown": {
@@ -9791,11 +9780,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "whitestone-landmark-block-a",
     "status": "up",
-    "uptime": "59.27%",
+    "uptime": "59.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.76%",
     "uptimeMonth": "96.35%",
-    "uptimeYear": "59.27%",
+    "uptimeYear": "59.29%",
     "time": 5882,
     "timeDay": 0,
     "timeWeek": 6306,
@@ -10336,17 +10325,18 @@
     "slug": "vbhc-serene-town-d-block",
     "status": "down",
     "uptime": "86.05%",
-    "uptimeDay": "38.07%",
-    "uptimeWeek": "77.07%",
-    "uptimeMonth": "82.27%",
-    "uptimeYear": "76.21%",
+    "uptimeDay": "32.63%",
+    "uptimeWeek": "76.29%",
+    "uptimeMonth": "82.09%",
+    "uptimeYear": "76.19%",
     "time": 3879,
     "timeDay": 233,
     "timeWeek": 7114,
     "timeMonth": 5520,
     "timeYear": 3976,
     "dailyMinutesDown": {
-      "2022-11-23": 892,
+      "2022-11-24": 64,
+      "2022-11-23": 906,
       "2022-11-20": 273,
       "2022-11-19": 1146,
       "2022-11-16": 47,
@@ -10524,7 +10514,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.91%",
     "uptimeMonth": "96.59%",
-    "uptimeYear": "75.56%",
+    "uptimeYear": "75.58%",
     "time": 5186,
     "timeDay": 11512,
     "timeWeek": 14922,
@@ -10671,8 +10661,7 @@
       "2021-12-01": 309,
       "2021-11-30": 777,
       "2021-11-26": 1239,
-      "2021-11-25": 735,
-      "2021-11-24": 386
+      "2021-11-25": 735
     }
   },
   {
@@ -10684,15 +10673,16 @@
     "uptime": "90.98%",
     "uptimeDay": "9.37%",
     "uptimeWeek": "15.33%",
-    "uptimeMonth": "41.66%",
-    "uptimeYear": "85.14%",
+    "uptimeMonth": "41.48%",
+    "uptimeYear": "85.12%",
     "time": 5382,
     "timeDay": 1704,
     "timeWeek": 5560,
     "timeMonth": 4981,
     "timeYear": 5986,
     "dailyMinutesDown": {
-      "2022-11-23": 1291,
+      "2022-11-24": 65,
+      "2022-11-23": 1305,
       "2022-11-22": 1257,
       "2022-11-21": 1407,
       "2022-11-20": 699,
@@ -10793,7 +10783,7 @@
     "status": "up",
     "uptime": "91.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.02%",
+    "uptimeWeek": "56.80%",
     "uptimeMonth": "67.53%",
     "uptimeYear": "86.55%",
     "time": 6169,
@@ -11115,12 +11105,12 @@
     "status": "up",
     "uptime": "87.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.40%",
+    "uptimeWeek": "85.91%",
     "uptimeMonth": "91.82%",
     "uptimeYear": "80.10%",
     "time": 3921,
     "timeDay": 0,
-    "timeWeek": 3250,
+    "timeWeek": 3311,
     "timeMonth": 3559,
     "timeYear": 3817,
     "dailyMinutesDown": {
@@ -11298,12 +11288,12 @@
     "status": "up",
     "uptime": "75.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.40%",
+    "uptimeWeek": "85.91%",
     "uptimeMonth": "91.82%",
     "uptimeYear": "75.53%",
     "time": 3771,
     "timeDay": 0,
-    "timeWeek": 3834,
+    "timeWeek": 3754,
     "timeMonth": 4114,
     "timeYear": 3771,
     "dailyMinutesDown": {
@@ -11408,11 +11398,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "madhuban-brindavan-4-block",
     "status": "up",
-    "uptime": "72.57%",
+    "uptime": "72.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "69.29%",
     "uptimeMonth": "92.59%",
-    "uptimeYear": "72.57%",
+    "uptimeYear": "72.58%",
     "time": 3586,
     "timeDay": 0,
     "timeWeek": 2942,
@@ -11623,13 +11613,13 @@
     "status": "up",
     "uptime": "95.28%",
     "uptimeDay": "91.50%",
-    "uptimeWeek": "32.35%",
-    "uptimeMonth": "51.40%",
+    "uptimeWeek": "32.62%",
+    "uptimeMonth": "51.55%",
     "uptimeYear": "92.22%",
     "time": 5933,
     "timeDay": 1694,
-    "timeWeek": 6432,
-    "timeMonth": 6763,
+    "timeWeek": 6844,
+    "timeMonth": 6625,
     "timeYear": 5944,
     "dailyMinutesDown": {
       "2022-11-23": 122,
@@ -11783,18 +11773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "dasta-concerto-clubhouse-gym",
     "status": "up",
-    "uptime": "89.36%",
-    "uptimeDay": "25.99%",
-    "uptimeWeek": "68.81%",
-    "uptimeMonth": "77.43%",
-    "uptimeYear": "89.36%",
+    "uptime": "89.33%",
+    "uptimeDay": "20.49%",
+    "uptimeWeek": "68.02%",
+    "uptimeMonth": "77.25%",
+    "uptimeYear": "89.33%",
     "time": 6471,
     "timeDay": 0,
     "timeWeek": 5897,
     "timeMonth": 7463,
     "timeYear": 6471,
     "dailyMinutesDown": {
-      "2022-11-23": 1066,
+      "2022-11-24": 66,
+      "2022-11-23": 1079,
       "2022-11-22": 68,
       "2022-11-21": 508,
       "2022-11-20": 357,
@@ -11862,9 +11853,9 @@
     "status": "up",
     "uptime": "78.17%",
     "uptimeDay": "99.11%",
-    "uptimeWeek": "79.85%",
+    "uptimeWeek": "80.64%",
     "uptimeMonth": "63.72%",
-    "uptimeYear": "74.16%",
+    "uptimeYear": "74.18%",
     "time": 5060,
     "timeDay": 11572,
     "timeWeek": 8831,
@@ -12018,8 +12009,7 @@
       "2021-11-28": 356,
       "2021-11-27": 27,
       "2021-11-26": 182,
-      "2021-11-25": 118,
-      "2021-11-24": 388
+      "2021-11-25": 118
     }
   },
   {
@@ -12032,7 +12022,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.91%",
     "uptimeMonth": "96.63%",
-    "uptimeYear": "81.59%",
+    "uptimeYear": "81.61%",
     "time": 4994,
     "timeDay": 0,
     "timeWeek": 6340,
@@ -12165,8 +12155,7 @@
       "2021-12-02": 1128,
       "2021-12-01": 1440,
       "2021-11-30": 839,
-      "2021-11-25": 32,
-      "2021-11-24": 388
+      "2021-11-25": 32
     }
   },
   {
@@ -12175,10 +12164,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "brigade-cosmopolis-clubhouse-end",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.91%",
-    "uptimeMonth": "87.95%",
+    "uptimeMonth": "88.13%",
     "uptimeYear": "89.09%",
     "time": 3189,
     "timeDay": 0,
@@ -12826,18 +12815,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "trifecta-esplanade-e-block",
     "status": "down",
-    "uptime": "30.80%",
+    "uptime": "30.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.96%",
+    "uptimeYear": "22.95%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2022-11-23": 1427,
+      "2022-11-24": 67,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -13118,8 +13108,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 446
+      "2021-11-25": 1440
     }
   },
   {
@@ -13128,11 +13117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "trifecta-esplanade-f-block",
     "status": "up",
-    "uptime": "47.74%",
+    "uptime": "47.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.91%",
     "uptimeMonth": "96.28%",
-    "uptimeYear": "41.00%",
+    "uptimeYear": "41.01%",
     "time": 1460,
     "timeDay": 0,
     "timeWeek": 2940,
@@ -13373,8 +13362,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 723
+      "2021-11-25": 1440
     }
   },
   {
@@ -13394,7 +13382,8 @@
     "timeMonth": 238,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2022-11-23": 1427,
+      "2022-11-24": 67,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -13660,8 +13649,7 @@
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
-      "2022-03-02": 915,
-      "2021-11-24": 374
+      "2022-03-02": 915
     }
   },
   {
@@ -13674,7 +13662,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.90%",
     "uptimeMonth": "86.92%",
-    "uptimeYear": "41.61%",
+    "uptimeYear": "41.63%",
     "time": 1448,
     "timeDay": 0,
     "timeWeek": 2867,
@@ -13911,8 +13899,7 @@
       "2021-12-12": 1440,
       "2021-12-11": 1440,
       "2021-12-10": 1440,
-      "2021-12-09": 953,
-      "2021-11-24": 374
+      "2021-12-09": 953
     }
   },
   {
@@ -13921,11 +13908,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "trifecta-esplanade-i-block",
     "status": "up",
-    "uptime": "65.87%",
+    "uptime": "65.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.90%",
     "uptimeMonth": "86.97%",
-    "uptimeYear": "62.31%",
+    "uptimeYear": "62.32%",
     "time": 1343,
     "timeDay": 0,
     "timeWeek": 2980,
@@ -14081,8 +14068,7 @@
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
-      "2022-03-02": 915,
-      "2021-11-24": 374
+      "2022-03-02": 915
     }
   },
   {
@@ -14091,11 +14077,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "trifecta-esplanade-j-block",
     "status": "up",
-    "uptime": "44.64%",
+    "uptime": "44.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.90%",
     "uptimeMonth": "87.02%",
-    "uptimeYear": "39.21%",
+    "uptimeYear": "39.23%",
     "time": 1298,
     "timeDay": 0,
     "timeWeek": 2944,
@@ -14336,8 +14322,7 @@
       "2021-12-12": 1440,
       "2021-12-11": 1440,
       "2021-12-10": 1440,
-      "2021-12-09": 951,
-      "2021-11-24": 375
+      "2021-12-09": 951
     }
   },
   {
@@ -14350,7 +14335,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.90%",
     "uptimeMonth": "87.02%",
-    "uptimeYear": "44.91%",
+    "uptimeYear": "44.93%",
     "time": 1381,
     "timeDay": 0,
     "timeWeek": 2923,
@@ -14584,8 +14569,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 720
+      "2021-11-25": 1440
     }
   },
   {
@@ -14594,7 +14578,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "trifecta-esplanade-l-block",
     "status": "up",
-    "uptime": "51.36%",
+    "uptime": "51.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.90%",
     "uptimeMonth": "85.83%",
@@ -14814,8 +14798,7 @@
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
-      "2021-11-30": 828,
-      "2021-11-24": 66
+      "2021-11-30": 828
     }
   },
   {
@@ -14979,8 +14962,7 @@
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
-      "2022-03-02": 914,
-      "2021-11-24": 66
+      "2022-03-02": 914
     }
   },
   {
@@ -15047,7 +15029,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "68.64%",
     "uptimeMonth": "83.22%",
-    "uptimeYear": "87.31%",
+    "uptimeYear": "87.33%",
     "time": 3861,
     "timeDay": 0,
     "timeWeek": 1872,
@@ -15165,8 +15147,7 @@
       "2022-01-13": 24,
       "2022-01-11": 403,
       "2022-01-10": 963,
-      "2022-01-04": 61,
-      "2021-11-24": 346
+      "2022-01-04": 61
     }
   },
   {
@@ -15232,18 +15213,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tymly.in.ico",
     "slug": "trifecta-esplanade-common-area",
     "status": "down",
-    "uptime": "11.15%",
+    "uptime": "11.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.15%",
+    "uptimeYear": "11.14%",
     "time": 1215,
     "timeDay": 0,
     "timeWeek": 237,
     "timeMonth": 380,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2022-11-23": 1428,
+      "2022-11-24": 69,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
