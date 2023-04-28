@@ -1,7 +1,7 @@
 url: https://cloud.tymly.in/status/1039
-status: down
-code: 521
-responseTime: 20250
-lastUpdated: 2023-04-28T08:26:58.611Z
+status: up
+code: 200
+responseTime: 4093
+lastUpdated: 2023-04-28T08:38:33.654Z
 startTime: Thu Mar 11 2021 06:36:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
